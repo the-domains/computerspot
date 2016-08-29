@@ -22,6 +22,8 @@ navigation:
   - name: Main Page
     url: 'http://www.computerspot.gr'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/799751ee-22cd-4b1f-ba71-f3a5e8bfd4a3.ico
 collections:
   - index:
       path: /
@@ -34,5 +36,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: ComputerSpot
+title: where everything Computer Happens
 description: Where everything Computer happens
