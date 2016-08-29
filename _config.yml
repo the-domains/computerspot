@@ -1,0 +1,15 @@
+typography_spectrum: 0.2819549
+color:
+  saturation: 0.4962406
+  lightness: 1
+  brandStrength: 0.4333314
+  rhythmicContrast: 0.2506266
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+layout_spectrum: 0.9567669
+name: ComputerSpot
+title: ComputerSpot
