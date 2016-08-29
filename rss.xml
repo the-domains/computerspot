@@ -4,7 +4,7 @@
         <description><![CDATA[ComputerSpot]]></description>
         <link>https://thegrid.ai/computerspot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 11:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 11:43:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/computerspot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Απρόσμενο Downtime για το The Pirate Bay]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.coffeespots.gr/hot-news/item/315-pirate-bay</link>
             <guid isPermaLink="false">df97434f-e80b-4a30-a2ba-3dbdf8b3a51d</guid>
             <pubDate>Sun, 28 Aug 2016 11:41:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Title]]></title>
-            <description><![CDATA[<article><h1>Title</h1><p>Blah blah blah blah… lorem ipsum dolor…</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06c233dd-2736-4b64-9ce3-ef54f05d96e9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/computerspot/title/index.html</link>
-            <guid isPermaLink="false">a0259f8f-1391-4644-9d16-c629fcb549eb</guid>
-            <pubDate>Sat, 27 Aug 2016 23:22:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
