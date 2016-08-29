@@ -1,8 +1,25 @@
+typography_spectrum: 0.127193
+color:
+  saturation: 0.4962406
+  brandStrength: 0.4333314
+  rhythmicContrast: 0.2506266
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  lightness: 1
+layout_spectrum: 0.9567669
 author:
   name: Αλέξανδρος Ανδρούτσος
   email: alex.androutsos@gmail.com
   url: www.ComputerSpot.gr
-title: ComputerSpot
+name: ComputerSpot
+navigation:
+  - name: Main Page
+    url: 'http://www.computerspot.gr'
+    type: external
 collections:
   - index:
       path: /
@@ -15,18 +32,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.4962406
-  brandStrength: 0.4333314
-  rhythmicContrast: 0.2506266
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  lightness: 1
-typography_spectrum: 0.127193
+title: ComputerSpot
 description: Where everything Computer happens
-layout_spectrum: 0.9567669
-name: ComputerSpot
