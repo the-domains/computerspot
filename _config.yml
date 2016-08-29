@@ -11,6 +11,10 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 layout_spectrum: 0.9567669
+author:
+  name: Αλέξανδρος Ανδρούτσος
+  email: alex.androutsos@gmail.com
+  url: www.ComputerSpot.gr
 name: ComputerSpot
 title: ComputerSpot
 description: Where everything Computer happens
