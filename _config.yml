@@ -1,3 +1,16 @@
+layout_spectrum: 0.7648786033969373
+typography_spectrum: 0.758561402792111
+color:
+  saturation: 0.4104666346684098
+  brandStrength: 0.050476375967264175
+  lightness: 0.2923144774977118
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  rhythmicContrast: 0.6999231323134154
 title: ComputerSpot
 collections:
   - index:
@@ -12,17 +25,6 @@ collections:
     permalink:
       path: '/:title/'
 description: Where everything Computer happens
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0.650376
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  rhythmicContrast: 0.6898496
 navigation:
   - name: Main Page
     url: 'http://www.computerspot.gr'
@@ -36,5 +38,3 @@ author:
 name: ComputerSpot
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cb0f9c2-11f6-4cd0-b501-d10ba023a263.png
-typography_spectrum: 0.127193
-layout_spectrum: 0.5426065
