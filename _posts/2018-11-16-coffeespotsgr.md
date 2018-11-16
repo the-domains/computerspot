@@ -64,22 +64,21 @@ keywords:
   - wearetpb
   - tpb
 description: >-
-  Οι διαχειριστές του Pirate Bay συνεχίζουν να αλλάζουν την σελίδα, προκαλώντας
-  το ενδιαφέρον των εκατομμυρίων φίλων της, αν και όπως φαίνεται δεν χρειάζεται,
-  καθώς σύμφωνα με το Alexa η σελίδα παραμένει σε πολύ υψηλή θέση, παρά του
-  γεγονότος ότι δεν λειτουργε
+  Το The Pirate Bay υποδέχτηκε την νέα χρονιά με ένα μυστήριο update στην σελίδα
+  του. Μια μαύρη σελίδα με έναν μετρητή αντίστροφης μέτρησης στο πάνω μέρος που
+  φαίνεται να καταλήγει στην 1 η Φλεβάρη.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/379-the-pirate-bay-phoenix'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/370-the-pirate-bay-countdown'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.274Z'
+datePublished: '2018-11-16T12:57:27.272Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.074Z'
+datePublishedOriginal: '2018-11-16T12:56:26.087Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Οι διαχ&amp;epsi;ιριστές το&amp;upsi; Pirate Bay σ&amp;upsi;ν&amp;epsi;χίζο&amp;upsi;ν να αλλάζο&amp;upsi;ν την σ&amp;epsi;λίδα, προκαλώντας το &amp;epsi;νδιαφέρον των &amp;epsi;κατομμ&amp;upsi;ρίων φίλων της, αν και όπως φαίν&amp;epsi;ται δ&amp;epsi;ν χρ&amp;epsi;ιάζ&amp;epsi;ται, καθώς σύμφωνα μ&amp;epsi; το Alexa η σ&amp;epsi;λίδα παραμέν&amp;epsi;ι σ&amp;epsi; πολύ &amp;upsi;ψηλή θέση, παρά το&amp;upsi; γ&amp;epsi;γονότος ότι δ&amp;epsi;ν λ&amp;epsi;ιτο&amp;upsi;ργ&amp;epsi;</p><img src="https://www.coffeespots.gr/media/k2/items/cache/eb9b7452cdc806568d2312ea5614a301_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Το The Pirate Bay &amp;upsi;ποδέχτηκ&amp;epsi; την νέα χρονιά μ&amp;epsi; ένα μ&amp;upsi;στήριο update στην σ&amp;epsi;λίδα το&amp;upsi;. Μια μαύρη σ&amp;epsi;λίδα μ&amp;epsi; έναν μ&amp;epsi;τρητή αντίστροφης μέτρησης στο πάνω μέρος πο&amp;upsi; φαίν&amp;epsi;ται να καταλήγ&amp;epsi;ι στην 1 η Φλ&amp;epsi;βάρη.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/4effff5398b13b476604d4d8450bedfd_XL.jpg" /></article>
