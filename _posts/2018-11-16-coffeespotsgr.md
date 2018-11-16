@@ -33,51 +33,43 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - day
-  - μέρα
-  - pirate
-  - bay
-  - swedish
-  - polish
-  - σουηδική
-  - αστυνομία
-  - έφοδος
-  - the pirate bay
-  - down
-  - downtime
-  - off line
-  - torrent freak
-  - eztv
-  - server
-  - torrent
-  - torrents
-  - peter
-  - sunde
-  - peter sunde
-  - site
-  - website
-  - ugly
-  - bugs
-  - adds
-  - porn
+  - stephen
+  - hawking
+  - died
+  - at 76
+  - στίβεν χόκινγκ
+  - στίβεν
+  - χόκινγκ
+  - πέθανε
+  - απεβίωσε
+  - αστροφυσικός
+  - βρετανός
+  - κέιμπριτζ
+  - astrophysicist
+  - astrophysics
+  - british
+  - cambridge
+  - λούσι χώκινγκ
+  - ρόμπερτ χώκινγκ
+  - τίμοθι χώκινγκ
+  - ελέιν μέισον
+  - τζέιν χώκινγκ
 description: >-
-  Πριν από περίπου 72 ώρες η Σουηδική αστυνομία κατάσχεσε τους servers του The
-  Pirate Bay, ένα από τα μεγαλύτερα site πειρατικού λογισμικού, με αποτέλεσμα να
-  βγει εκτός λειτουργίας για πρώτη φορά μετά από πολλά χρόνια. Η είδηση έκανε
-  τον γύρο του διαδικτύου με πολλούς χρήστες να το σχολιάζουν αρνητικά, αλλά
-  φαίνεται πως κάποιοι χάρηκαν.
+  Ο διαπρεπής Bρετανός θεωρητικός φυσικός Στίβεν Χόκινγκ απεβίωσε σήμερα, σε
+  ηλικία 76 ετών. O Στίβεν Χόκινγκ και η θανατηφόρα ασθένεια που τον καθήλωσε Ο
+  διάσημος θεωρητικός φυσικός έζησε 52 χρόνια με Αμυοτροφική Πλευρική Σκλήρυνση
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/317-peter-sunde'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/811-steven-hawking-died'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:29.451Z'
-dateModified: '2018-11-16T12:30:59.519Z'
-datePublishedOriginal: '2018-11-16T12:56:29.451Z'
+datePublished: '2018-11-16T12:57:27.187Z'
+dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
+starred: false
+datePublishedOriginal: '2018-11-16T12:56:26.015Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Πριν από π&amp;epsi;ρίπο&amp;upsi; 72 ώρ&amp;epsi;ς η Σο&amp;upsi;ηδική αστ&amp;upsi;νομία κατάσχ&amp;epsi;σ&amp;epsi; το&amp;upsi;ς servers το&amp;upsi; The Pirate Bay, ένα από τα μ&amp;epsi;γαλύτ&amp;epsi;ρα site π&amp;epsi;ιρατικού λογισμικού, μ&amp;epsi; αποτέλ&amp;epsi;σμα να βγ&amp;epsi;ι &amp;epsi;κτός λ&amp;epsi;ιτο&amp;upsi;ργίας για πρώτη φορά μ&amp;epsi;τά από πολλά χρόνια. Η &amp;epsi;ίδηση έκαν&amp;epsi; τον γύρο το&amp;upsi; διαδικτύο&amp;upsi; μ&amp;epsi; πολλούς χρήστ&amp;epsi;ς να το σχολιάζο&amp;upsi;ν αρνητικά, αλλά φαίν&amp;epsi;ται πως κάποιοι χάρηκαν.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/c987a1b31fd3f1f08322280ca0954f48_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Ο διαπρ&amp;epsi;πής Bρ&amp;epsi;τανός θ&amp;epsi;ωρητικός φ&amp;upsi;σικός Στίβ&amp;epsi;ν Χόκινγκ απ&amp;epsi;βίωσ&amp;epsi; σήμ&amp;epsi;ρα, σ&amp;epsi; ηλικία 76 &amp;epsi;τών. O Στίβ&amp;epsi;ν Χόκινγκ και η θανατηφόρα ασθέν&amp;epsi;ια πο&amp;upsi; τον καθήλωσ&amp;epsi; Ο διάσημος θ&amp;epsi;ωρητικός φ&amp;upsi;σικός έζησ&amp;epsi; 52 χρόνια μ&amp;epsi; Αμ&amp;upsi;οτροφική Πλ&amp;epsi;&amp;upsi;ρική Σκλήρ&amp;upsi;νση</p><img src="https://www.coffeespots.gr/media/k2/items/cache/6af8f580e799444e5a52119018e87a65_XL.jpg" /></article>
