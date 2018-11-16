@@ -56,8 +56,8 @@ description: >-
   ανακοίνωση των παιδιών του, την οποία αναμετέδωσε το BBC.
 app_links: []
 title: 'Στίβεν Χόκινγκ: Ο μεγαλύτερος αστροφυσικός που έζησε ποτέ, απεβίωσε.'
-datePublished: '2018-11-16T13:38:24.240Z'
-dateModified: '2018-11-16T13:38:23.174Z'
+datePublished: '2018-11-16T13:38:26.283Z'
+dateModified: '2018-11-16T13:38:25.568Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
