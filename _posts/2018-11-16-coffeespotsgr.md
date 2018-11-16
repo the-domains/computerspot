@@ -33,37 +33,32 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - thessaloniki μιτ sana bootcamp
-  - thessaloniki
-  - μιτ
-  - sana bootcamp
-  - θεσσαλονίκη
-  - hackathlon
-  - smartphones
-  - tablets
-  - κινητά
-  - τάμπλετ
-  - εφαρμογή
-  - εφαρμογές
-  - app
-  - apps
+  - movie
+  - movies
+  - video
+  - videos.adblock
+  - browser
+  - adblock browser
+  - περιηγητής
+  - διαφημίσεις
 description: >-
-  Στις 17 και 18 Οκτωβρίου, στο Thessaloniki ΜΙΤ Sana Bootcamp, θα
-  πραγματοποιηθεί το Hackathon, στο οποίο θα συμμετέχουν φοιτητές και μηχανικοί
-  υπολογιστών, και θα δημιουργήσουν, έξυπνες εφαρμογές για κινητά ή τάμπλετ που
-  θα δίνουν λύσεις σε θέματα υγείας.
+  Μετά από μερικές εβδομάδες σε έκδοση beta, οι χρήστες συσκευών Android και iOS
+  μπορούν πλέον να κατεβάσουν δωρεάν την επίσημη τελική έκδοση του AdBlock
+  Browser, η οποία μπλοκάρει τις διαφημίσεις που εμφανίζονται στις ιστοσελίδες
+  για μεγαλύτερη ταχύτητα στο σερφάρισμα, μείωση στην κατανάλωση data και
+  εξοικονόμηση μπαταρίας.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/592-hackathon'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/566-adblock-browser'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.256Z'
+datePublished: '2018-11-16T12:57:27.236Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.083Z'
+datePublishedOriginal: '2018-11-16T12:56:26.065Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Στις 17 και 18 Οκτωβρίο&amp;upsi;, στο Thessaloniki ΜΙΤ Sana Bootcamp, θα πραγματοποιηθ&amp;epsi;ί το Hackathon, στο οποίο θα σ&amp;upsi;μμ&amp;epsi;τέχο&amp;upsi;ν φοιτητές και μηχανικοί &amp;upsi;πολογιστών, και θα δημιο&amp;upsi;ργήσο&amp;upsi;ν, έξ&amp;upsi;πν&amp;epsi;ς &amp;epsi;φαρμογές για κινητά ή τάμπλ&amp;epsi;τ πο&amp;upsi; θα δίνο&amp;upsi;ν λύσ&amp;epsi;ις σ&amp;epsi; θέματα &amp;upsi;γ&amp;epsi;ίας.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/9abae742a9374d5c2cfee072fa802c4b_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Μ&amp;epsi;τά από μ&amp;epsi;ρικές &amp;epsi;βδομάδ&amp;epsi;ς σ&amp;epsi; έκδοση beta, οι χρήστ&amp;epsi;ς σ&amp;upsi;σκ&amp;epsi;&amp;upsi;ών Android και iOS μπορούν πλέον να κατ&amp;epsi;βάσο&amp;upsi;ν δωρ&amp;epsi;άν την &amp;epsi;πίσημη τ&amp;epsi;λική έκδοση το&amp;upsi; AdBlock Browser, η οποία μπλοκάρ&amp;epsi;ι τις διαφημίσ&amp;epsi;ις πο&amp;upsi; &amp;epsi;μφανίζονται στις ιστοσ&amp;epsi;λίδ&amp;epsi;ς για μ&amp;epsi;γαλύτ&amp;epsi;ρη ταχύτητα στο σ&amp;epsi;ρφάρισμα, μ&amp;epsi;ίωση στην κατανάλωση data και &amp;epsi;ξοικονόμηση μπαταρίας.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/d3787968271aadf66b69e2f7e02571e2_XL.jpg" /></article>
