@@ -64,8 +64,8 @@ description: 'https://www.coffeespots.gr/images/latestNewsPICS/peter_sunde.jpg'
 app_links: []
 isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/317-peter-sunde'
 title: coffeespots.gr
-datePublished: '2018-11-16T13:05:40.915Z'
-dateModified: '2018-11-16T13:05:38.557Z'
+datePublished: '2018-11-16T13:06:02.396Z'
+dateModified: '2018-11-16T13:06:01.424Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
@@ -75,7 +75,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-https://www.coffeespots.gr/images/latestNewsPICS/peter\_sunde.jpg
+[https://www.coffeespots.gr/images/latestNewsPICS/peter\_sunde.jpg][0]
 
 Πριν από περίπου 72 ώρες η Σουηδική αστυνομία κατάσχεσε τους servers του The Pirate Bay, ένα από τα μεγαλύτερα site πειρατικού λογισμικού, με αποτέλεσμα να βγει εκτός λειτουργίας για πρώτη φορά μετά από πολλά χρόνια. Η είδηση έκανε τον γύρο του διαδικτύου με πολλούς χρήστες να το σχολιάζουν αρνητικά, αλλά φαίνεται πως κάποιοι χάρηκαν.
 
@@ -95,6 +95,7 @@ _«From the immense void that will now fill up the fiber cables all over the wor
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db0e74112dcad71dfa2b2f76c853027313e6c548.jpg" /><h1>coffeespots.gr</h1><p>Πριν από π&amp;epsi;ρίπο&amp;upsi; 72 ώρ&amp;epsi;ς η Σο&amp;upsi;ηδική αστ&amp;upsi;νομία κατάσχ&amp;epsi;σ&amp;epsi; το&amp;upsi;ς servers το&amp;upsi; The Pirate Bay, ένα από τα μ&amp;epsi;γαλύτ&amp;epsi;ρα site π&amp;epsi;ιρατικού λογισμικού, μ&amp;epsi; αποτέλ&amp;epsi;σμα να βγ&amp;epsi;ι &amp;epsi;κτός λ&amp;epsi;ιτο&amp;upsi;ργίας για πρώτη φορά μ&amp;epsi;τά από πολλά χρόνια. Η &amp;epsi;ίδηση έκαν&amp;epsi; τον γύρο το&amp;upsi; διαδικτύο&amp;upsi; μ&amp;epsi; πολλούς χρήστ&amp;epsi;ς να το σχολιάζο&amp;upsi;ν αρνητικά, αλλά φαίν&amp;epsi;ται πως κάποιοι χάρηκαν.</p></article>
 
-[https://www.youtube.com/watch?v=BEzZDKKZ3IA][0]
+[https://www.youtube.com/watch?v=BEzZDKKZ3IA][1]
 
-[0]: https://www.youtube.com/watch?v=BEzZDKKZ3IA
+[0]: https://www.coffeespots.gr/images/latestNewsPICS/peter_sunde.jpg
+[1]: https://www.youtube.com/watch?v=BEzZDKKZ3IA
