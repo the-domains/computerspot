@@ -33,35 +33,47 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - tor
-  - the onion router
-  - onion
-  - router
-  - dark net
-  - darknet
-  - dark
-  - net
-  - internet
-  - ίντερνετ
-  - bbc
-  - μελέτη
-  - παιδική πορνογραφία
-  - παιδική
-  - πορνογραφία
-  - university of portshmouth
-  - ''
+  - day
+  - μέρα
+  - pirate
+  - bay
+  - swedish
+  - polish
+  - σουηδική
+  - αστυνομία
+  - έφοδος
+  - the pirate bay
+  - down
+  - downtime
+  - off line
+  - torrent freak
+  - eztv
+  - server
+  - torrent
+  - torrents
+  - site
+  - website
+  - ugly
+  - bugs
+  - comeback
+  - επιστροφή
+  - countdown
+  - αντίστροφη μέτρηση
+  - μετρητής
+  - counter
+  - wearetpb
+  - tpb
 description: >-
-  Το μεγαλύτερο μέρος του traffic σε ιστοσελίδες του αποκαλούμενου "σκοτεινού
-  δικτύου" (dark net)/ανώνυμου δικτύου του TOR (The Onion Router -
-  χρησιμοποιείται για ανώνυμη δραστηριότητα στο Ίντερνετ) έχει να κάνει με
-  σελίδες σχετικά με υλικό κακοποίησης ανηλίκων/παιδικής πορνογραφίας, σύμφωνα
-  με μελέτη του University of Portsmouth.
+  Οι διαχειριστές του Pirate Bay συνεχίζουν να αλλάζουν την σελίδα, προκαλώντας
+  το ενδιαφέρον των εκατομμυρίων φίλων της, αν και όπως φαίνεται δεν χρειάζεται,
+  καθώς σύμφωνα με το Alexa η σελίδα παραμένει σε πολύ υψηλή θέση, παρά του
+  γεγονότος ότι δεν λειτουργε
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/541-dark-net'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/379-the-pirate-bay-phoenix'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:26.065Z'
-dateModified: '2018-11-16T12:43:15.170Z'
-datePublishedOriginal: '2018-11-16T12:56:26.065Z'
+datePublished: '2018-11-16T12:56:26.074Z'
+dateModified: '2018-11-16T12:41:29.371Z'
+datePublishedOriginal: '2018-11-16T12:56:26.074Z'
 via: {}
 inFeed: true
 starred: false
@@ -70,4 +82,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Το μ&amp;epsi;γαλύτ&amp;epsi;ρο μέρος το&amp;upsi; traffic σ&amp;epsi; ιστοσ&amp;epsi;λίδ&amp;epsi;ς το&amp;upsi; αποκαλούμ&amp;epsi;νο&amp;upsi; "σκοτ&amp;epsi;ινού δικτύο&amp;upsi;" (dark net)/ανών&amp;upsi;μο&amp;upsi; δικτύο&amp;upsi; το&amp;upsi; TOR (The Onion Router - χρησιμοποι&amp;epsi;ίται για ανών&amp;upsi;μη δραστηριότητα στο Ίντ&amp;epsi;ρν&amp;epsi;τ) έχ&amp;epsi;ι να κάν&amp;epsi;ι μ&amp;epsi; σ&amp;epsi;λίδ&amp;epsi;ς σχ&amp;epsi;τικά μ&amp;epsi; &amp;upsi;λικό κακοποίησης ανηλίκων/παιδικής πορνογραφίας, σύμφωνα μ&amp;epsi; μ&amp;epsi;λέτη το&amp;upsi; University of Portsmouth.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/cdbf366d9f51982d2973fefc5c0ec9b1_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Οι διαχ&amp;epsi;ιριστές το&amp;upsi; Pirate Bay σ&amp;upsi;ν&amp;epsi;χίζο&amp;upsi;ν να αλλάζο&amp;upsi;ν την σ&amp;epsi;λίδα, προκαλώντας το &amp;epsi;νδιαφέρον των &amp;epsi;κατομμ&amp;upsi;ρίων φίλων της, αν και όπως φαίν&amp;epsi;ται δ&amp;epsi;ν χρ&amp;epsi;ιάζ&amp;epsi;ται, καθώς σύμφωνα μ&amp;epsi; το Alexa η σ&amp;epsi;λίδα παραμέν&amp;epsi;ι σ&amp;epsi; πολύ &amp;upsi;ψηλή θέση, παρά το&amp;upsi; γ&amp;epsi;γονότος ότι δ&amp;epsi;ν λ&amp;epsi;ιτο&amp;upsi;ργ&amp;epsi;</p><img src="https://www.coffeespots.gr/media/k2/items/cache/eb9b7452cdc806568d2312ea5614a301_XL.jpg" /></article>
