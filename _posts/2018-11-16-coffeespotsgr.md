@@ -33,41 +33,43 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - microsoft
-  - desktop
-  - tablet
-  - cellular
-  - smartphone
-  - κινητό
-  - τηλέφωνο
-  - υπολογιστής
-  - περίεργα
-  - μηνύματα σφάλματος
-  - υπολογιστές
-  - error
-  - message
-  - messages
-  - error messages
-  - αστεία
-  - funny
+  - οδήγηση
+  - τιμόνι
+  - αυτοκίνητο
+  - αυτοκίνηση
+  - car
+  - drive
+  - wheel
+  - δρόμος
+  - άσφαλτος
+  - ηλιακός
+  - συλλέκτης
+  - ηλιακό
+  - πάνελ
+  - ενέργεια
+  - solar
+  - energy
+  - motorways
+  - project
+  - panel
 description: >-
-  Όσο και να ασχολείστε με τους υπολογιστές, ακόμα και πολύ λίγο, θα έχετε
-  συναντήσει ένα εξοργιστικό μήνυμα σφάλματος - ένα μήνυμα που δεν ταιριάζει
-  στην στιγμή και στα πιθανά λάθη που μπορεί να υπάρχουν και εγγυημένα θα σας
-  δώσει ώθηση να εξοργηστείτε στα όρια της αντοχής σας με το μηχάνημα που
-  περιμένει απαθώς και υπομονετικά την αντίδρασή σας.
+  Το να βρεθεί τρόπος να αντικατασταθεί η κλασική άσφαλτος στους δρόμους με
+  καποιο υλικό που θα βοηθούσε στην παραγωγή και στην εξοικονόμηση ενέργειας και
+  στην δημιουργία ενός καλύτερου κόσμου αποτελεί ενας διαχρονικό όραμα ενός
+  ζευγαριού ερευνητών από τις ΗΠΑ. Ο Scott και η Julie Brusaw's δουλεύουν
+  πυρετωδώς προς αυτή την κατεύθυνση.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/695-funniest-computer-error-messages'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/668-solar-motorways'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.184Z'
+datePublished: '2018-11-16T12:57:27.186Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.051Z'
+datePublishedOriginal: '2018-11-16T12:56:26.033Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Όσο και να ασχολ&amp;epsi;ίστ&amp;epsi; μ&amp;epsi; το&amp;upsi;ς &amp;upsi;πολογιστές, ακόμα και πολύ λίγο, θα έχ&amp;epsi;τ&amp;epsi; σ&amp;upsi;ναντήσ&amp;epsi;ι ένα &amp;epsi;ξοργιστικό μήν&amp;upsi;μα σφάλματος - ένα μήν&amp;upsi;μα πο&amp;upsi; δ&amp;epsi;ν ταιριάζ&amp;epsi;ι στην στιγμή και στα πιθανά λάθη πο&amp;upsi; μπορ&amp;epsi;ί να &amp;upsi;πάρχο&amp;upsi;ν και &amp;epsi;γγ&amp;upsi;ημένα θα σας δώσ&amp;epsi;ι ώθηση να &amp;epsi;ξοργηστ&amp;epsi;ίτ&amp;epsi; στα όρια της αντοχής σας μ&amp;epsi; το μηχάνημα πο&amp;upsi; π&amp;epsi;ριμέν&amp;epsi;ι απαθώς και &amp;upsi;πομον&amp;epsi;τικά την αντίδρασή σας.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/6d7013048d0c128a879704427738873c_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Το να βρ&amp;epsi;θ&amp;epsi;ί τρόπος να αντικατασταθ&amp;epsi;ί η κλασική άσφαλτος στο&amp;upsi;ς δρόμο&amp;upsi;ς μ&amp;epsi; καποιο &amp;upsi;λικό πο&amp;upsi; θα βοηθούσ&amp;epsi; στην παραγωγή και στην &amp;epsi;ξοικονόμηση &amp;epsi;νέργ&amp;epsi;ιας και στην δημιο&amp;upsi;ργία &amp;epsi;νός καλύτ&amp;epsi;ρο&amp;upsi; κόσμο&amp;upsi; αποτ&amp;epsi;λ&amp;epsi;ί &amp;epsi;νας διαχρονικό όραμα &amp;epsi;νός ζ&amp;epsi;&amp;upsi;γαριού &amp;epsi;ρ&amp;epsi;&amp;upsi;νητών από τις ΗΠΑ. Ο Scott και η Julie Brusaw's δο&amp;upsi;λ&amp;epsi;ύο&amp;upsi;ν π&amp;upsi;ρ&amp;epsi;τωδώς προς α&amp;upsi;τή την κατ&amp;epsi;ύθ&amp;upsi;νση.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/cb814f6646368a9340b7ed30aa1a9ed7_XL.jpg" /></article>
