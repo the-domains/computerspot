@@ -65,8 +65,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/317-peter-sunde'
 title: ''
-datePublished: '2018-11-16T13:08:25.151Z'
-dateModified: '2018-11-16T13:08:23.637Z'
+datePublished: '2018-11-16T13:09:26.528Z'
+dateModified: '2018-11-16T13:09:25.149Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
@@ -93,7 +93,5 @@ _«The site was ugly, full of bugs, old code and old designs. It never changed e
 _«From the immense void that will now fill up the fiber cables all over the world, I'm pretty sure the next thing will pan out. And hopefully it has no ads for porn or viagra. There are already other services for that»._
 
 Ο καθένας λοιπόν μπορεί να βγάλει τα συμπεράσματά του για κάτι που σίγουρα άλλαξε το πρόσωπο του διαδικτύου. Εμείς στο CoffeeSpots σας παραθέτουμε εδώ παρακάτω την πλήρη ταινία- ντοκιμαντέρ «TPB AFK: The Pirate Bay Away From Keyboard» που περιγράφει όλη την ιστορία του The Pirate Bay, από ποιους ξεκίνησε και που έφτασε. Φυσικά η ταινία φτάνει μέχρι πολύ πριν το κλείσιμο, αλλά εμείς πλέον γνωρίζουμε την εξέλιξη της ιστορίας. Καθήστε και απολαύστε το (μιας και είναι σχεδόν 90 λεπτά). Υπότιτλοι υπάρχουν για αρκετές γλώσσες. Ελπίζουμε να βοηθήσουμε μ' αυτό τον τρόπο να ξεκαθαρίσει λίγο η εικόνα μιας υπηρεσίας που στιγματίστικε ίσως από μια πειρατική σημαία.
-
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db0e74112dcad71dfa2b2f76c853027313e6c548.jpg" /><h1>πηγή: coffeespots.gr</h1><p>Πριν από π&amp;epsi;ρίπο&amp;upsi; 72 ώρ&amp;epsi;ς η Σο&amp;upsi;ηδική αστ&amp;upsi;νομία κατάσχ&amp;epsi;σ&amp;epsi; το&amp;upsi;ς servers το&amp;upsi; The Pirate Bay, ένα από τα μ&amp;epsi;γαλύτ&amp;epsi;ρα site π&amp;epsi;ιρατικού λογισμικού, μ&amp;epsi; αποτέλ&amp;epsi;σμα να βγ&amp;epsi;ι &amp;epsi;κτός λ&amp;epsi;ιτο&amp;upsi;ργίας για πρώτη φορά μ&amp;epsi;τά από πολλά χρόνια. Η &amp;epsi;ίδηση έκαν&amp;epsi; τον γύρο το&amp;upsi; διαδικτύο&amp;upsi; μ&amp;epsi; πολλούς χρήστ&amp;epsi;ς να το σχολιάζο&amp;upsi;ν αρνητικά, αλλά φαίν&amp;epsi;ται πως κάποιοι χάρηκαν.</p></article>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtz7EKwjAURuFXCdlrFNHBGkHRQXyDbmnyawNJE25vCPXpFe12pg_O0T_JRIjqHQ9a7vZrKQb418Babjc7KSayWg7MeTooVWtdzalw6bGyKSrEHk5dbu_u-nh02_tZih_XJ3IgLb-YCSFVLY21CKAUwaBWmMIpBzO3AqOlOTNcE-G8acVrpjTZlNGK7C0XQuPHZsnFe5YQJkvAeDqq_8HpA0-hR0Q" height="244" style=""></iframe>
