@@ -33,31 +33,68 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - αυτόνομη
-  - οδήγηση
-  - τιμόνι
-  - αυτοκίνητο
-  - αυτοκίνηση
-  - car
-  - self drive
-  - drive
-  - wheel
-  - airtouch
-  - ces
-  - bmw
-  - touchscreen
-  - gesture control
-  - ''
+  - day
+  - μέρα
+  - pirate
+  - bay
+  - swedish
+  - polish
+  - σουηδική
+  - αστυνομία
+  - έφοδος
+  - the pirate bay
+  - down
+  - downtime
+  - off line
+  - torrent freak
+  - eztv
+  - server
+  - torrent
+  - torrents
+  - site
+  - website
+  - ugly
+  - bugs
+  - comeback
+  - επιστροφή
+  - countdown
+  - αντίστροφη μέτρηση
+  - μετρητής
+  - counter
+  - wearetpb
+  - tpb
+  - popcorntime
+  - popcorn
+  - pop corn
+  - time
+  - yts.to
+  - yts
+  - yify
+  - yify-torrents
+  - butter
+  - έκλεισε
+  - ποπ κορν
+  - pop corn
+  - time
+  - ταινίες
+  - streaming
+  - κατέβασμα
+  - streaming video
+  - movie
+  - movies
+  - video
+  - videos
 description: >-
-  Φέτος, η BMW προσθέτει "Gesture Control" στο πολυτελές 7-Series sedan της, που
-  επιτρέπει στους οδηγούς να σύρουν τα δάχτυλά τους μπροστά από την οθόνη για να
-  εκτελέσουν τις εντολές.
+  Τέλος εποχής για το δημοφιλέστατο Popcorn Time ή αλλιώς το "Netflix των
+  πειρατών". Από τις αρχές της προηγούμενης εβδομάδας η υπηρεσία μπήκε σε
+  περιπέτειες καθώς κάποια από τα μέλη της άρχισαν να αποχωρούν από την ομάδα
+  λόγω νομικών και ηθικών φραγμών.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/648-bmw-airtouch'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/604-popcorn-time-eol'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:26.050Z'
-dateModified: '2018-11-16T12:48:47.834Z'
-datePublishedOriginal: '2018-11-16T12:56:26.050Z'
+datePublished: '2018-11-16T12:56:26.033Z'
+dateModified: '2018-11-16T12:47:04.159Z'
+datePublishedOriginal: '2018-11-16T12:56:26.033Z'
 via: {}
 inFeed: true
 starred: false
@@ -66,4 +103,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Φέτος, η BMW προσθέτ&amp;epsi;ι "Gesture Control" στο πολ&amp;upsi;τ&amp;epsi;λές 7-Series sedan της, πο&amp;upsi; &amp;epsi;πιτρέπ&amp;epsi;ι στο&amp;upsi;ς οδηγούς να σύρο&amp;upsi;ν τα δάχτ&amp;upsi;λά το&amp;upsi;ς μπροστά από την οθόνη για να &amp;epsi;κτ&amp;epsi;λέσο&amp;upsi;ν τις &amp;epsi;ντολές.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/21615ff211c60b43d866a2b2bca320da_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Τέλος &amp;epsi;ποχής για το δημοφιλέστατο Popcorn Time ή αλλιώς το "Netflix των π&amp;epsi;ιρατών". Από τις αρχές της προηγούμ&amp;epsi;νης &amp;epsi;βδομάδας η &amp;upsi;πηρ&amp;epsi;σία μπήκ&amp;epsi; σ&amp;epsi; π&amp;epsi;ριπέτ&amp;epsi;ι&amp;epsi;ς καθώς κάποια από τα μέλη της άρχισαν να αποχωρούν από την ομάδα λόγω νομικών και ηθικών φραγμών.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/e3017719190ff1e83db12ee09e7beada_XL.jpg" /></article>
