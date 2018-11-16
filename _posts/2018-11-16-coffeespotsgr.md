@@ -43,28 +43,23 @@ keywords:
   - net
   - internet
   - ίντερνετ
-  - ανωνυμία
-  - anonymity
-  - safety
-  - ασφάλεια
 description: >-
-  η ανωνυμία στο Internet είναι ένα θέμα αρκετά δύσκολο. Παρ' ότι το δίκτυο Tor
-  φαντάζει ως μια ιδανική λύση, στην πραγματικότητα κανείς δεν μπορεί να
-  εγγυηθεί την απόλυτη ανωνυμία. Στο παρόν άρθρο θα δούμε σε ποια σημεία υστερεί
-  το δίκτυο Tor, ποιοι είναι οι περιορισμοί του, καθώς και τα ενδεχόμενα ρίσκα
-  όσον αφορά τη χρήση αλλά και την ενεργή συμμετοχή σε αυτό.
+  "Στο Internet κανείς δεν ξέρει ότι είσαι σκύλος". Τι εστί όμως Tor? Πρόκειται
+  για ένα κρυπτογραφημένο δίκτυο που, για να φτάσουμε στη σελίδα του προορισμού
+  μας, μας περνάει μέσα από ενδιάμεσους κόμβους (relays) του δικτύου και μας
+  βγάζει από κόμβους εξόδου (exit nodes).
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/548-is-tor-safe'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/545-tor-network'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.257Z'
+datePublished: '2018-11-16T12:57:27.256Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.084Z'
+datePublishedOriginal: '2018-11-16T12:56:26.072Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>η ανων&amp;upsi;μία στο Internet &amp;epsi;ίναι ένα θέμα αρκ&amp;epsi;τά δύσκολο. Παρ' ότι το δίκτ&amp;upsi;ο Tor φαντάζ&amp;epsi;ι ως μια ιδανική λύση, στην πραγματικότητα καν&amp;epsi;ίς δ&amp;epsi;ν μπορ&amp;epsi;ί να &amp;epsi;γγ&amp;upsi;ηθ&amp;epsi;ί την απόλ&amp;upsi;τη ανων&amp;upsi;μία. Στο παρόν άρθρο θα δούμ&amp;epsi; σ&amp;epsi; ποια σημ&amp;epsi;ία &amp;upsi;στ&amp;epsi;ρ&amp;epsi;ί το δίκτ&amp;upsi;ο Tor, ποιοι &amp;epsi;ίναι οι π&amp;epsi;ριορισμοί το&amp;upsi;, καθώς και τα &amp;epsi;νδ&amp;epsi;χόμ&amp;epsi;να ρίσκα όσον αφορά τη χρήση αλλά και την &amp;epsi;ν&amp;epsi;ργή σ&amp;upsi;μμ&amp;epsi;τοχή σ&amp;epsi; α&amp;upsi;τό.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/8ab790b9074fed051af256aa504a66b7_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>"Στο Internet καν&amp;epsi;ίς δ&amp;epsi;ν ξέρ&amp;epsi;ι ότι &amp;epsi;ίσαι σκύλος". Τι &amp;epsi;στί όμως Tor? Πρόκ&amp;epsi;ιται για ένα κρ&amp;upsi;πτογραφημένο δίκτ&amp;upsi;ο πο&amp;upsi;, για να φτάσο&amp;upsi;μ&amp;epsi; στη σ&amp;epsi;λίδα το&amp;upsi; προορισμού μας, μας π&amp;epsi;ρνά&amp;epsi;ι μέσα από &amp;epsi;νδιάμ&amp;epsi;σο&amp;upsi;ς κόμβο&amp;upsi;ς (relays) το&amp;upsi; δικτύο&amp;upsi; και μας βγάζ&amp;epsi;ι από κόμβο&amp;upsi;ς &amp;epsi;ξόδο&amp;upsi; (exit nodes).</p><img src="https://www.coffeespots.gr/media/k2/items/cache/16fd96deba85a06311383433f152ed24_XL.jpg" /></article>
