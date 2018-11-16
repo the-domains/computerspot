@@ -33,27 +33,21 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - αυτόνομη
-  - οδήγηση
-  - τιμόνι
-  - αυτοκίνητο
-  - αυτοκίνηση
-  - car
-  - self drive
-  - drive
-  - wheel
-  - airtouch
-  - ces
-  - bmw
-  - touchscreen
-  - gesture control
-  - ''
+  - microsoft
+  - continuum
+  - desktop
+  - tablet
+  - cellular
+  - smartphone
+  - κινητό
+  - τηλέφωνο
+  - υπολογιστής
 description: >-
-  Φέτος, η BMW προσθέτει "Gesture Control" στο πολυτελές 7-Series sedan της, που
-  επιτρέπει στους οδηγούς να σύρουν τα δάχτυλά τους μπροστά από την οθόνη για να
-  εκτελέσουν τις εντολές.
+  Στο γενικό πλαίσιο της εξέλιξης και των αλλαγών που παρουσιάζει στο φετινό
+  συνέδριο Build όπως οι Android και iOS εφαρμογές σε Windows 10 και ο νέος
+  browser Microsoft Edge, η Microsoft ανακοίνωσε και το Continuum for phones.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/648-bmw-airtouch'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/631-continuum'
 title: coffeespots.gr
 datePublished: '2018-11-16T12:57:27.146Z'
 dateModified: '2018-11-16T12:57:25.406Z'
@@ -61,9 +55,9 @@ via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.050Z'
+datePublishedOriginal: '2018-11-16T12:56:26.031Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Φέτος, η BMW προσθέτ&amp;epsi;ι "Gesture Control" στο πολ&amp;upsi;τ&amp;epsi;λές 7-Series sedan της, πο&amp;upsi; &amp;epsi;πιτρέπ&amp;epsi;ι στο&amp;upsi;ς οδηγούς να σύρο&amp;upsi;ν τα δάχτ&amp;upsi;λά το&amp;upsi;ς μπροστά από την οθόνη για να &amp;epsi;κτ&amp;epsi;λέσο&amp;upsi;ν τις &amp;epsi;ντολές.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/21615ff211c60b43d866a2b2bca320da_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Στο γ&amp;epsi;νικό πλαίσιο της &amp;epsi;ξέλιξης και των αλλαγών πο&amp;upsi; παρο&amp;upsi;σιάζ&amp;epsi;ι στο φ&amp;epsi;τινό σ&amp;upsi;νέδριο Build όπως οι Android και iOS &amp;epsi;φαρμογές σ&amp;epsi; Windows 10 και ο νέος browser Microsoft Edge, η Microsoft ανακοίνωσ&amp;epsi; και το Continuum for phones.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/e6b24df417ad7ceb7a489b8a35382a8c_XL.jpg" /></article>
