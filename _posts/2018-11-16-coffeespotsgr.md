@@ -33,21 +33,37 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - ημέρα αποθήκευσης αρχείων
-  - world backup day
-  - mat honan
-  - παγκόσμια ημέρα
+  - οδήγηση
+  - τιμόνι
+  - αυτοκίνητο
+  - αυτοκίνηση
+  - car
+  - drive
+  - wheel
+  - δρόμος
+  - άσφαλτος
+  - ηλιακός
+  - συλλέκτης
+  - ηλιακό
+  - πάνελ
+  - ενέργεια
+  - solar
+  - energy
+  - motorways
+  - project
+  - panel
 description: >-
-  Την τελευταία εβδομάδα του Μαρτίου του 2010 κάποιοι χρήστες του ιστότοπου
-  κοινωνικής δικτύωσης reddit είχαν την ιδέα να αφιερώσουν μία ημέρα στην
-  αρχειοθέτηση των δεδομένων των ηλεκτρονικών υπολογιστών (backup).
+  Το να βρεθεί τρόπος να αντικατασταθεί η κλασική άσφαλτος στους δρόμους με
+  καποιο υλικό που θα βοηθούσε στην παραγωγή και στην εξοικονόμηση ενέργειας και
+  στην δημιουργία ενός καλύτερου κόσμου αποτελεί ενας διαχρονικό όραμα ενός
+  ζευγαριού ερευνητών από τις ΗΠΑ. Ο Scott και η Julie Brusaw's δουλεύουν
+  πυρετωδώς προς αυτή την κατεύθυνση.
 app_links: []
-isBasedOnUrl: >-
-  https://www.coffeespots.gr/hot-news/item/797-%CF%80%CE%B1%CE%B3%CE%BA%CF%8C%CF%83%CE%BC%CE%B9%CE%B1-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1-%CE%B1%CF%80%CE%BF%CE%B8%CE%AE%CE%BA%CE%B5%CF%85%CF%83%CE%B7%CF%82-%CE%B1%CF%81%CF%87%CE%B5%CE%AF%CF%89%CE%BD
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/668-solar-motorways'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:26.052Z'
-dateModified: '2018-11-16T12:53:20.711Z'
-datePublishedOriginal: '2018-11-16T12:56:26.052Z'
+datePublished: '2018-11-16T12:56:26.033Z'
+dateModified: '2018-11-16T12:51:42.831Z'
+datePublishedOriginal: '2018-11-16T12:56:26.033Z'
 via: {}
 inFeed: true
 starred: false
@@ -56,4 +72,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Την τ&amp;epsi;λ&amp;epsi;&amp;upsi;ταία &amp;epsi;βδομάδα το&amp;upsi; Μαρτίο&amp;upsi; το&amp;upsi; 2010 κάποιοι χρήστ&amp;epsi;ς το&amp;upsi; ιστότοπο&amp;upsi; κοινωνικής δικτύωσης reddit &amp;epsi;ίχαν την ιδέα να αφι&amp;epsi;ρώσο&amp;upsi;ν μία ημέρα στην αρχ&amp;epsi;ιοθέτηση των δ&amp;epsi;δομένων των ηλ&amp;epsi;κτρονικών &amp;upsi;πολογιστών (backup).</p><img src="https://www.coffeespots.gr/media/k2/items/cache/5b74e738223d177a4030153c35f64896_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Το να βρ&amp;epsi;θ&amp;epsi;ί τρόπος να αντικατασταθ&amp;epsi;ί η κλασική άσφαλτος στο&amp;upsi;ς δρόμο&amp;upsi;ς μ&amp;epsi; καποιο &amp;upsi;λικό πο&amp;upsi; θα βοηθούσ&amp;epsi; στην παραγωγή και στην &amp;epsi;ξοικονόμηση &amp;epsi;νέργ&amp;epsi;ιας και στην δημιο&amp;upsi;ργία &amp;epsi;νός καλύτ&amp;epsi;ρο&amp;upsi; κόσμο&amp;upsi; αποτ&amp;epsi;λ&amp;epsi;ί &amp;epsi;νας διαχρονικό όραμα &amp;epsi;νός ζ&amp;epsi;&amp;upsi;γαριού &amp;epsi;ρ&amp;epsi;&amp;upsi;νητών από τις ΗΠΑ. Ο Scott και η Julie Brusaw's δο&amp;upsi;λ&amp;epsi;ύο&amp;upsi;ν π&amp;upsi;ρ&amp;epsi;τωδώς προς α&amp;upsi;τή την κατ&amp;epsi;ύθ&amp;upsi;νση.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/cb814f6646368a9340b7ed30aa1a9ed7_XL.jpg" /></article>
