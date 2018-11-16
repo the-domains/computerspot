@@ -33,28 +33,27 @@ keywords:
   - cup
   - capuccino
   - espresso
+  - ημέρα αποθήκευσης αρχείων
+  - world backup day
+  - mat honan
   - παγκόσμια ημέρα
-  - πρωτομαγιά
-  - 1 μαΐου
-  - παγκόσμια ημέρα για την σταθερά του planck
-  - planck
-  - σταθερά planck.
 description: >-
-  Σήμερα, 1 Μαΐου είναι η μέρα που είναι γνωστή και σαν "Παγκόσμια μέρα της
-  Σταθεράς του Πλανκ". Για την ακρίβεια είναι η "Παγκόσμια μέρα της μειωμένης
-  Σταθεράς του Πλανκ".
+  Ο Mat είναι συντάκτης στην ιστοσελίδα wired.com και μέσα σε μία μέρα είδε την
+  ψηφιακή του ζωή να καταστρέφεται απλά και μόνο γιατί σε κάποιον άρεσε το
+  username του στο twitter και το ήθελε για τον εαυτό του (@mat).
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/799-planck%E2%80%99s-constant-day'
+isBasedOnUrl: >-
+  https://www.coffeespots.gr/hot-news/item/798-%CE%B7-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1-%CF%84%CE%BF%CF%85-mat-honan-%CF%84%CE%BF-%CE%AD%CE%BD%CE%B1%CF%85%CF%83%CE%BC%CE%B1-%CF%84%CE%B7%CF%82-%CF%80%CE%B1%CE%B3%CE%BA%CF%8C%CF%83%CE%BC%CE%B9%CE%B1%CF%82-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82-%CE%B1%CF%80%CE%BF%CE%B8%CE%AE%CE%BA%CE%B5%CF%85%CF%83%CE%B7%CF%82-%CE%B1%CF%81%CF%87%CE%B5%CE%AF%CF%89%CE%BD
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.147Z'
+datePublished: '2018-11-16T12:57:27.221Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.017Z'
+datePublishedOriginal: '2018-11-16T12:56:26.065Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Σήμ&amp;epsi;ρα, 1 Μαΐο&amp;upsi; &amp;epsi;ίναι η μέρα πο&amp;upsi; &amp;epsi;ίναι γνωστή και σαν "Παγκόσμια μέρα της Σταθ&amp;epsi;ράς το&amp;upsi; Πλανκ". Για την ακρίβ&amp;epsi;ια &amp;epsi;ίναι η "Παγκόσμια μέρα της μ&amp;epsi;ιωμένης Σταθ&amp;epsi;ράς το&amp;upsi; Πλανκ".</p><img src="https://www.coffeespots.gr/media/k2/items/cache/671fe58af5845f33e7786dd608484c8d_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Ο Mat &amp;epsi;ίναι σ&amp;upsi;ντάκτης στην ιστοσ&amp;epsi;λίδα wired.com και μέσα σ&amp;epsi; μία μέρα &amp;epsi;ίδ&amp;epsi; την ψηφιακή το&amp;upsi; ζωή να καταστρέφ&amp;epsi;ται απλά και μόνο γιατί σ&amp;epsi; κάποιον άρ&amp;epsi;σ&amp;epsi; το username το&amp;upsi; στο twitter και το ήθ&amp;epsi;λ&amp;epsi; για τον &amp;epsi;α&amp;upsi;τό το&amp;upsi; (@mat).</p><img src="https://www.coffeespots.gr/media/k2/items/cache/9ec5addc67447038d196a2fc30522c2d_XL.jpg" /></article>
