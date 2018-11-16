@@ -64,15 +64,15 @@ keywords:
   - wearetpb
   - tpb
 description: >-
-  Το δημοφιλέστερο παγκοσμίως "τορεντάδικο", πιστό στο ραντεβού του, άρχισε και
-  πάλι να λειτουργεί. Το CoffeeSpots σας δίνει όλο το παρασκήνιο των τελευταίων
-  μηνών.
+  Το The Pirate Bay υποδέχτηκε την νέα χρονιά με ένα μυστήριο update στην σελίδα
+  του. Μια μαύρη σελίδα με έναν μετρητή αντίστροφης μέτρησης στο πάνω μέρος που
+  φαίνεται να καταλήγει στην 1 η Φλεβάρη.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/383-the-pirate-bay-reborn'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/370-the-pirate-bay-countdown'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:26.084Z'
-dateModified: '2018-11-16T12:41:56.014Z'
-datePublishedOriginal: '2018-11-16T12:56:26.084Z'
+datePublished: '2018-11-16T12:56:26.087Z'
+dateModified: '2018-11-16T12:40:54.220Z'
+datePublishedOriginal: '2018-11-16T12:56:26.087Z'
 via: {}
 inFeed: true
 starred: false
@@ -81,4 +81,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Το δημοφιλέστ&amp;epsi;ρο παγκοσμίως "τορ&amp;epsi;ντάδικο", πιστό στο ραντ&amp;epsi;βού το&amp;upsi;, άρχισ&amp;epsi; και πάλι να λ&amp;epsi;ιτο&amp;upsi;ργ&amp;epsi;ί. Το CoffeeSpots σας δίν&amp;epsi;ι όλο το παρασκήνιο των τ&amp;epsi;λ&amp;epsi;&amp;upsi;ταίων μηνών.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/92c3523de61d06eebdc515f2babb64b9_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Το The Pirate Bay &amp;upsi;ποδέχτηκ&amp;epsi; την νέα χρονιά μ&amp;epsi; ένα μ&amp;upsi;στήριο update στην σ&amp;epsi;λίδα το&amp;upsi;. Μια μαύρη σ&amp;epsi;λίδα μ&amp;epsi; έναν μ&amp;epsi;τρητή αντίστροφης μέτρησης στο πάνω μέρος πο&amp;upsi; φαίν&amp;epsi;ται να καταλήγ&amp;epsi;ι στην 1 η Φλ&amp;epsi;βάρη.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/4effff5398b13b476604d4d8450bedfd_XL.jpg" /></article>
