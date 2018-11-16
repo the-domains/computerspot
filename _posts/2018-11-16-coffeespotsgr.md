@@ -33,74 +33,37 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - day
-  - μέρα
-  - pirate
-  - bay
-  - swedish
-  - polish
-  - σουηδική
-  - αστυνομία
-  - έφοδος
-  - the pirate bay
-  - down
-  - downtime
-  - off line
-  - torrent freak
-  - eztv
-  - server
-  - torrent
-  - torrents
-  - site
-  - website
-  - ugly
-  - bugs
-  - comeback
-  - επιστροφή
-  - countdown
-  - αντίστροφη μέτρηση
-  - μετρητής
-  - counter
-  - wearetpb
-  - tpb
-  - popcorntime
-  - popcorn
-  - pop corn
-  - time
-  - yts.to
-  - yts
-  - yify
-  - yify-torrents
-  - butter
-  - έκλεισε
-  - ποπ κορν
-  - pop corn
-  - time
-  - ταινίες
-  - streaming
-  - κατέβασμα
-  - streaming video
-  - movie
-  - movies
-  - video
-  - videos
+  - thessaloniki μιτ sana bootcamp
+  - thessaloniki
+  - μιτ
+  - sana bootcamp
+  - θεσσαλονίκη
+  - hackathlon
+  - smartphones
+  - tablets
+  - κινητά
+  - τάμπλετ
+  - εφαρμογή
+  - εφαρμογές
+  - app
+  - apps
 description: >-
-  Τέλος εποχής για το δημοφιλέστατο Popcorn Time ή αλλιώς το "Netflix των
-  πειρατών". Από τις αρχές της προηγούμενης εβδομάδας η υπηρεσία μπήκε σε
-  περιπέτειες καθώς κάποια από τα μέλη της άρχισαν να αποχωρούν από την ομάδα
-  λόγω νομικών και ηθικών φραγμών.
+  Στις 17 και 18 Οκτωβρίου, στο Thessaloniki ΜΙΤ Sana Bootcamp, θα
+  πραγματοποιηθεί το Hackathon, στο οποίο θα συμμετέχουν φοιτητές και μηχανικοί
+  υπολογιστών, και θα δημιουργήσουν, έξυπνες εφαρμογές για κινητά ή τάμπλετ που
+  θα δίνουν λύσεις σε θέματα υγείας.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/604-popcorn-time-eol'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/592-hackathon'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.222Z'
+datePublished: '2018-11-16T12:57:27.256Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.033Z'
+datePublishedOriginal: '2018-11-16T12:56:26.083Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Τέλος &amp;epsi;ποχής για το δημοφιλέστατο Popcorn Time ή αλλιώς το "Netflix των π&amp;epsi;ιρατών". Από τις αρχές της προηγούμ&amp;epsi;νης &amp;epsi;βδομάδας η &amp;upsi;πηρ&amp;epsi;σία μπήκ&amp;epsi; σ&amp;epsi; π&amp;epsi;ριπέτ&amp;epsi;ι&amp;epsi;ς καθώς κάποια από τα μέλη της άρχισαν να αποχωρούν από την ομάδα λόγω νομικών και ηθικών φραγμών.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/e3017719190ff1e83db12ee09e7beada_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Στις 17 και 18 Οκτωβρίο&amp;upsi;, στο Thessaloniki ΜΙΤ Sana Bootcamp, θα πραγματοποιηθ&amp;epsi;ί το Hackathon, στο οποίο θα σ&amp;upsi;μμ&amp;epsi;τέχο&amp;upsi;ν φοιτητές και μηχανικοί &amp;upsi;πολογιστών, και θα δημιο&amp;upsi;ργήσο&amp;upsi;ν, έξ&amp;upsi;πν&amp;epsi;ς &amp;epsi;φαρμογές για κινητά ή τάμπλ&amp;epsi;τ πο&amp;upsi; θα δίνο&amp;upsi;ν λύσ&amp;epsi;ις σ&amp;epsi; θέματα &amp;upsi;γ&amp;epsi;ίας.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/9abae742a9374d5c2cfee072fa802c4b_XL.jpg" /></article>
