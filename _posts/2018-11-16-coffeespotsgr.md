@@ -63,22 +63,28 @@ description: >-
   τον γύρο του διαδικτύου με πολλούς χρήστες να το σχολιάζουν αρνητικά, αλλά
   φαίνεται πως κάποιοι χάρηκαν.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/317-peter-sunde'
-title: ''
-datePublished: '2018-11-16T13:10:51.801Z'
-dateModified: '2018-11-16T13:10:50.736Z'
+title: >-
+  Ο Peter Sunde, ο συνιδρυτής του Pirate Bay είναι ικανοποιημένος με το κλείσιμό
+  του;
+datePublished: '2018-11-16T13:11:55.494Z'
+dateModified: '2018-11-16T13:11:54.812Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-11-16T13:05:28.692Z'
+url: o-peter-sunde-o-synidryths-toy-pirate-bay-einai-ikanopoihme/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+# Ο Peter Sunde, ο συνιδρυτής του Pirate Bay είναι ικανοποιημένος με το κλείσιμό του;
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e699454e-554d-454b-8513-221b417bb488.jpg)
 
 Πριν από περίπου 72 ώρες η Σουηδική αστυνομία κατάσχεσε τους servers του The Pirate Bay, ένα από τα μεγαλύτερα site πειρατικού λογισμικού, με αποτέλεσμα να βγει εκτός λειτουργίας για πρώτη φορά μετά από πολλά χρόνια. Η είδηση έκανε τον γύρο του διαδικτύου με πολλούς χρήστες να το σχολιάζουν αρνητικά, αλλά φαίνεται πως κάποιοι χάρηκαν.
+
+---
 
 Όταν λέμε κάποιοι, δεν εννοούμε τον οποιονδήποτε αλλά έναν εκ των ιδρυτών του. Ο Peter Sunde πριν από μερικές εβδομάδες βγήκε από τη φυλακή όπου βρέθηκε για 5 μήνες για τη συμμετοχή του στο The Pirate Bay. Είναι από τα λίγα άτομα που τελικά πλήρωσαν το τίμημα για το όλο εγχείρημα του Pirate Pay Bay και πλέον εκφράζει την ευχαρίστησή του που το site έπεσε αλλά θα ήθελε αυτό να γίνει μόνιμο.
 
