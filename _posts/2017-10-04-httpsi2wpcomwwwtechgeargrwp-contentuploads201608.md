@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-11-16T13:14:32.242Z'
-dateModified: '2018-11-16T13:14:31.432Z'
+datePublished: '2018-11-16T13:39:56.204Z'
+dateModified: '2018-11-16T13:39:55.533Z'
 via: {}
 description: >-
   Η Acer παρουσίασε το πανίσχυρο gaming laptop Predator 21 X στην IFA Berlin
@@ -23,6 +23,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ff8f073-c306-4d21-933d-21d92e694a53.jpg)
 
 Η Acer παρουσίασε το πανίσχυρο gaming laptop Predator 21 X στην IFA Berlin 2016, το οποίο εκτός των άλλων είναι και το πρώτο στον κόσμο με κυρτή οθόνη. Επιπλέον, η εταιρεία έχει ενσωματώσει την τεχνολογία Tobii με το σχετικό hardware (αισθητήρες και λογισμικό) για eye-tracking που ανεβάζει την εμπειρία gaming σε άλλο επίπεδο.
+
+---
 
 Το Acer Predator 21 X διαθέτει οθόνη 21" ανάλυσης 2560 x 1080 με υποστήριξη τεχνολογίας Nvidia G-Sync ειδικά για gaming, επεξεργαστή Intel Core Kaby Lake 7ης γενιάς, διπλή κάρτα γραφικών Nvidia GeForce GTX 1080, σύστημα ήχου SoundPound 4.2+ (4 ηχεία και 2 subwoofer), 5 ανεμιστήρες για ψύξη (οι 3 είναι μεταλλικοί AeroBlade) και μηχανικό πληκτρολόγιο με επαναπρογραμματιζόμενα πλήκτρα Cherry MX και numpad που μετατρέπεται σε trackpad.
 
