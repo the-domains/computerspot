@@ -33,55 +33,44 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - tor
-  - the onion router
-  - onion
-  - router
-  - dark net
-  - darknet
-  - dark
-  - net
-  - internet
-  - ίντερνετ
-  - bbc
-  - μελέτη
-  - παιδική πορνογραφία
-  - παιδική
-  - πορνογραφία
-  - infrastructure
-  - υπενθυμίζεται
-  - παράλληλα
-  - έντουαρντ
-  - σνόουντεν
-  - facebook
-  - αυστραλία
-  - ίντερνετ
-  - secrecy
-  - router
-  - perfect
-  - forward
-  - σουηδία
-  - καναδά
-  - σίλικον
-  - browser
-  - μάφετ
+  - οδήγηση
+  - τιμόνι
+  - αυτοκίνητο
+  - αυτοκίνηση
+  - car
+  - drive
+  - wheel
+  - futuristic
+  - platinum
+  - ωστόσο
+  - maxplo
+  - italian
+  - awards
+  - σύμφωνα
+  - kumho
+  - design
+  - tires
+  - ελαστικά
+  - λάστιχα
+  - ''
 description: >-
-  Τη δυνατότητα άμεσης πρόσβασης μέσω του δικτύου ανωνυμίας Tor (The Onion
-  Router) παρέχει πλέον το Facebook στους χρήστες του, στην εποχή μετά τις
-  αποκαλύψεις του Έντουαρντ Σνόουντεν για τις ηλεκτρονικές παρακολουθήσεις από
-  τις υπηρεσίες πληροφοριών των ΗΠΑ.
+  Τα ελαστικά αποτελούν ένα από τα πιο σημαντικά τμήματα ενός αυτοκινήτου, καθώς
+  αποτελούν το σημείο επαφής. Ωστόσο, συνήθως ισχύει η φιλοσοφία "one size fits
+  all", δηλαδή ένα ελαστικό για όλες τις επιφάνειες και τις καιρικές συνθήκες,
+  καθώς η αλλαγή τους ανάλογα με τις διαφορές στις συνθήκες και τα δεδομένα δεν
+  είναι πρακτικά εφικτή.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/543-facebook-on-tor'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/542-smart-tires'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.257Z'
+datePublished: '2018-11-16T12:57:27.270Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.077Z'
+datePublishedOriginal: '2018-11-16T12:56:26.078Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Τη δ&amp;upsi;νατότητα άμ&amp;epsi;σης πρόσβασης μέσω το&amp;upsi; δικτύο&amp;upsi; ανων&amp;upsi;μίας Tor (The Onion Router) παρέχ&amp;epsi;ι πλέον το Facebook στο&amp;upsi;ς χρήστ&amp;epsi;ς το&amp;upsi;, στην &amp;epsi;ποχή μ&amp;epsi;τά τις αποκαλύψ&amp;epsi;ις το&amp;upsi; Έντο&amp;upsi;αρντ Σνόο&amp;upsi;ντ&amp;epsi;ν για τις ηλ&amp;epsi;κτρονικές παρακολο&amp;upsi;θήσ&amp;epsi;ις από τις &amp;upsi;πηρ&amp;epsi;σί&amp;epsi;ς πληροφοριών των ΗΠΑ.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/6a501db6788f8bc3147fbec59d7a4924_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Τα &amp;epsi;λαστικά αποτ&amp;epsi;λούν ένα από τα πιο σημαντικά τμήματα &amp;epsi;νός α&amp;upsi;τοκινήτο&amp;upsi;, καθώς αποτ&amp;epsi;λούν το σημ&amp;epsi;ίο &amp;epsi;παφής. Ωστόσο, σ&amp;upsi;νήθως ισχύ&amp;epsi;ι η φιλοσοφία "one size fits all", δηλαδή ένα &amp;epsi;λαστικό για όλ&amp;epsi;ς τις &amp;epsi;πιφάν&amp;epsi;ι&amp;epsi;ς και τις καιρικές σ&amp;upsi;νθήκ&amp;epsi;ς, καθώς η αλλαγή το&amp;upsi;ς ανάλογα μ&amp;epsi; τις διαφορές στις σ&amp;upsi;νθήκ&amp;epsi;ς και τα δ&amp;epsi;δομένα δ&amp;epsi;ν &amp;epsi;ίναι πρακτικά &amp;epsi;φικτή.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/5709ab37f70d899bd3794356bcaad57a_XL.jpg" /></article>
