@@ -64,16 +64,15 @@ keywords:
   - wearetpb
   - tpb
 description: >-
-  Οι διαχειριστές του Pirate Bay συνεχίζουν να αλλάζουν την σελίδα, προκαλώντας
-  το ενδιαφέρον των εκατομμυρίων φίλων της, αν και όπως φαίνεται δεν χρειάζεται,
-  καθώς σύμφωνα με το Alexa η σελίδα παραμένει σε πολύ υψηλή θέση, παρά του
-  γεγονότος ότι δεν λειτουργε
+  Το δημοφιλέστερο παγκοσμίως "τορεντάδικο", πιστό στο ραντεβού του, άρχισε και
+  πάλι να λειτουργεί. Το CoffeeSpots σας δίνει όλο το παρασκήνιο των τελευταίων
+  μηνών.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/379-the-pirate-bay-phoenix'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/383-the-pirate-bay-reborn'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:26.074Z'
-dateModified: '2018-11-16T12:41:29.371Z'
-datePublishedOriginal: '2018-11-16T12:56:26.074Z'
+datePublished: '2018-11-16T12:56:26.084Z'
+dateModified: '2018-11-16T12:41:56.014Z'
+datePublishedOriginal: '2018-11-16T12:56:26.084Z'
 via: {}
 inFeed: true
 starred: false
@@ -82,4 +81,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Οι διαχ&amp;epsi;ιριστές το&amp;upsi; Pirate Bay σ&amp;upsi;ν&amp;epsi;χίζο&amp;upsi;ν να αλλάζο&amp;upsi;ν την σ&amp;epsi;λίδα, προκαλώντας το &amp;epsi;νδιαφέρον των &amp;epsi;κατομμ&amp;upsi;ρίων φίλων της, αν και όπως φαίν&amp;epsi;ται δ&amp;epsi;ν χρ&amp;epsi;ιάζ&amp;epsi;ται, καθώς σύμφωνα μ&amp;epsi; το Alexa η σ&amp;epsi;λίδα παραμέν&amp;epsi;ι σ&amp;epsi; πολύ &amp;upsi;ψηλή θέση, παρά το&amp;upsi; γ&amp;epsi;γονότος ότι δ&amp;epsi;ν λ&amp;epsi;ιτο&amp;upsi;ργ&amp;epsi;</p><img src="https://www.coffeespots.gr/media/k2/items/cache/eb9b7452cdc806568d2312ea5614a301_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Το δημοφιλέστ&amp;epsi;ρο παγκοσμίως "τορ&amp;epsi;ντάδικο", πιστό στο ραντ&amp;epsi;βού το&amp;upsi;, άρχισ&amp;epsi; και πάλι να λ&amp;epsi;ιτο&amp;upsi;ργ&amp;epsi;ί. Το CoffeeSpots σας δίν&amp;epsi;ι όλο το παρασκήνιο των τ&amp;epsi;λ&amp;epsi;&amp;upsi;ταίων μηνών.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/92c3523de61d06eebdc515f2babb64b9_XL.jpg" /></article>
