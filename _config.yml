@@ -101,7 +101,7 @@ name: ComputerSpot
 author:
   name: Αλέξανδρος Ανδρούτσος
   email: androutsos+thegrid@computerspot.gr
-  url: www.ComputerSpot.gr
+  url: 'http://www.ComputerSpot.gr'
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/799751ee-22cd-4b1f-ba71-f3a5e8bfd4a3.ico
 logo: >-
