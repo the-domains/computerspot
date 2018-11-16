@@ -33,38 +33,35 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - οδήγηση
-  - τιμόνι
-  - αυτοκίνητο
-  - αυτοκίνηση
-  - car
-  - drive
-  - wheel
-  - futuristic
-  - platinum
-  - ωστόσο
-  - maxplo
-  - italian
-  - awards
-  - σύμφωνα
-  - kumho
-  - design
-  - tires
-  - ελαστικά
-  - λάστιχα
+  - tor
+  - the onion router
+  - onion
+  - router
+  - dark net
+  - darknet
+  - dark
+  - net
+  - internet
+  - ίντερνετ
+  - bbc
+  - μελέτη
+  - παιδική πορνογραφία
+  - παιδική
+  - πορνογραφία
+  - university of portshmouth
   - ''
 description: >-
-  Τα ελαστικά αποτελούν ένα από τα πιο σημαντικά τμήματα ενός αυτοκινήτου, καθώς
-  αποτελούν το σημείο επαφής. Ωστόσο, συνήθως ισχύει η φιλοσοφία "one size fits
-  all", δηλαδή ένα ελαστικό για όλες τις επιφάνειες και τις καιρικές συνθήκες,
-  καθώς η αλλαγή τους ανάλογα με τις διαφορές στις συνθήκες και τα δεδομένα δεν
-  είναι πρακτικά εφικτή.
+  Το μεγαλύτερο μέρος του traffic σε ιστοσελίδες του αποκαλούμενου "σκοτεινού
+  δικτύου" (dark net)/ανώνυμου δικτύου του TOR (The Onion Router -
+  χρησιμοποιείται για ανώνυμη δραστηριότητα στο Ίντερνετ) έχει να κάνει με
+  σελίδες σχετικά με υλικό κακοποίησης ανηλίκων/παιδικής πορνογραφίας, σύμφωνα
+  με μελέτη του University of Portsmouth.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/542-smart-tires'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/541-dark-net'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:26.078Z'
-dateModified: '2018-11-16T12:43:36.602Z'
-datePublishedOriginal: '2018-11-16T12:56:26.078Z'
+datePublished: '2018-11-16T12:56:26.065Z'
+dateModified: '2018-11-16T12:43:15.170Z'
+datePublishedOriginal: '2018-11-16T12:56:26.065Z'
 via: {}
 inFeed: true
 starred: false
@@ -73,4 +70,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Τα &amp;epsi;λαστικά αποτ&amp;epsi;λούν ένα από τα πιο σημαντικά τμήματα &amp;epsi;νός α&amp;upsi;τοκινήτο&amp;upsi;, καθώς αποτ&amp;epsi;λούν το σημ&amp;epsi;ίο &amp;epsi;παφής. Ωστόσο, σ&amp;upsi;νήθως ισχύ&amp;epsi;ι η φιλοσοφία "one size fits all", δηλαδή ένα &amp;epsi;λαστικό για όλ&amp;epsi;ς τις &amp;epsi;πιφάν&amp;epsi;ι&amp;epsi;ς και τις καιρικές σ&amp;upsi;νθήκ&amp;epsi;ς, καθώς η αλλαγή το&amp;upsi;ς ανάλογα μ&amp;epsi; τις διαφορές στις σ&amp;upsi;νθήκ&amp;epsi;ς και τα δ&amp;epsi;δομένα δ&amp;epsi;ν &amp;epsi;ίναι πρακτικά &amp;epsi;φικτή.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/5709ab37f70d899bd3794356bcaad57a_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Το μ&amp;epsi;γαλύτ&amp;epsi;ρο μέρος το&amp;upsi; traffic σ&amp;epsi; ιστοσ&amp;epsi;λίδ&amp;epsi;ς το&amp;upsi; αποκαλούμ&amp;epsi;νο&amp;upsi; "σκοτ&amp;epsi;ινού δικτύο&amp;upsi;" (dark net)/ανών&amp;upsi;μο&amp;upsi; δικτύο&amp;upsi; το&amp;upsi; TOR (The Onion Router - χρησιμοποι&amp;epsi;ίται για ανών&amp;upsi;μη δραστηριότητα στο Ίντ&amp;epsi;ρν&amp;epsi;τ) έχ&amp;epsi;ι να κάν&amp;epsi;ι μ&amp;epsi; σ&amp;epsi;λίδ&amp;epsi;ς σχ&amp;epsi;τικά μ&amp;epsi; &amp;upsi;λικό κακοποίησης ανηλίκων/παιδικής πορνογραφίας, σύμφωνα μ&amp;epsi; μ&amp;epsi;λέτη το&amp;upsi; University of Portsmouth.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/cdbf366d9f51982d2973fefc5c0ec9b1_XL.jpg" /></article>
