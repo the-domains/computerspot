@@ -1,3 +1,16 @@
+layout_spectrum: 0.1928435938996217
+typography_spectrum: 0.28599425948584584
+color:
+  saturation: 0.3461087637498864
+  brandStrength: 0.5862424732570416
+  rhythmicContrast: 0.1270868183208611
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  lightness: 0.677813393954409
 title: ComputerSpot
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -80,17 +93,6 @@ collections:
     permalink:
       path: '/:title/'
 description: Where everything Computer happens
-color:
-  saturation: 0.8723404
-  brandStrength: 0.05047637596726418
-  rhythmicContrast: 0.493617
-  brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-  lightness: 0.2923145
 navigation:
   - name: Main Page
     url: 'http://www.computerspot.gr'
@@ -104,8 +106,6 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/799751ee-22cd-4b1f-ba71-f3a5e8bfd4a3.ico
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cb0f9c2-11f6-4cd0-b501-d10ba023a263.png
-typography_spectrum: 0.2158516
-layout_spectrum: 1
 purpose:
   - type: contact
     url: 'tel:6973206899'
