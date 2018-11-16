@@ -33,37 +33,33 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - torrent
-  - magnet
-  - link
-  - τόρεντ
-  - popcorn time
-  - ποπ κορν
-  - pop corn
-  - time
-  - ταινίες
-  - streaming
-  - κατέβασμα
-  - streaming video
-  - movie
-  - movies
-  - video
-  - videos
+  - hard disk
+  - σκληρός δίσκος
+  - hdd
+  - dna
+  - έρευνα
+  - research
+  - data
+  - δεδομένα
+  - χωρητικότητα
+  - capacity
 description: >-
-  Ταινίες από το Internet, Δωρεάν και με Ασφάλεια. popcorntime.io: Η εποχή του
-  Streaming Torrent είναι εδώ
+  Ένα βήμα για τη χρήση του DNA ως μέσου αποθήκευσης ψηφιακών δεδομένων που θα
+  αντικαταστήσει τους σκληρούς δίσκους, οι οποίοι έχουν μειωμένη χωρητικότητα
+  και περιορισμένη αντοχή στον χρόνο, έκαναν επιστήμονες από το Ελβετικό
+  Ομοσπονδιακό Ινστιτούτο Τεχνολογίας στη Ζυρίχη
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/554-popcorn-time'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/553-dna-hard-disks'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.258Z'
+datePublished: '2018-11-16T12:57:27.257Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.078Z'
+datePublishedOriginal: '2018-11-16T12:56:26.073Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Ταινί&amp;epsi;ς από το Internet, Δωρ&amp;epsi;άν και μ&amp;epsi; Ασφάλ&amp;epsi;ια. popcorntime.io: Η &amp;epsi;ποχή το&amp;upsi; Streaming Torrent &amp;epsi;ίναι &amp;epsi;δώ</p><img src="https://www.coffeespots.gr/media/k2/items/cache/16e33b8fd7ad7ca58b03c6bbca1f0b81_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Ένα βήμα για τη χρήση το&amp;upsi; DNA ως μέσο&amp;upsi; αποθήκ&amp;epsi;&amp;upsi;σης ψηφιακών δ&amp;epsi;δομένων πο&amp;upsi; θα αντικαταστήσ&amp;epsi;ι το&amp;upsi;ς σκληρούς δίσκο&amp;upsi;ς, οι οποίοι έχο&amp;upsi;ν μ&amp;epsi;ιωμένη χωρητικότητα και π&amp;epsi;ριορισμένη αντοχή στον χρόνο, έκαναν &amp;epsi;πιστήμον&amp;epsi;ς από το Ελβ&amp;epsi;τικό Ομοσπονδιακό Ινστιτούτο Τ&amp;epsi;χνολογίας στη Ζ&amp;upsi;ρίχη</p><img src="https://www.coffeespots.gr/media/k2/items/cache/6fe1c589e796bff64c81da223cb0c48f_XL.jpg" /></article>
