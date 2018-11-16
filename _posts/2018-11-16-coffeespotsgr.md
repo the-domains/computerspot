@@ -33,25 +33,32 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - ταχύτητα
+  - tor
+  - the onion router
+  - onion
+  - router
+  - dark net
+  - darknet
+  - dark
+  - net
+  - internet
+  - ίντερνετ
+  - ανωνυμία
+  - anonymity
+  - safety
   - ασφάλεια
-  - cloudflare
-  - cdn
-  - spam
-  - σπαμ
-  - firewall
 description: >-
-  Όλοι ξέρουμε πως το antivirus και το firewall καταναλώνουν πολύτιμους πόρους
-  από το σύστημά μας, ενώ το 90% του χρόνου δεν χρησιμεύουν σε τίποτα. Όπως όμως
-  και με τους πυροσβέστες, που δεν μπορούν να πληρώνονται μόνο όταν σβήνουν
-  φωτιές, αυτό είναι το τίμημα για την ασφάλεια σε ένα κόσμο γεμάτο ιούς και
-  hacker.
+  η ανωνυμία στο Internet είναι ένα θέμα αρκετά δύσκολο. Παρ' ότι το δίκτυο Tor
+  φαντάζει ως μια ιδανική λύση, στην πραγματικότητα κανείς δεν μπορεί να
+  εγγυηθεί την απόλυτη ανωνυμία. Στο παρόν άρθρο θα δούμε σε ποια σημεία υστερεί
+  το δίκτυο Tor, ποιοι είναι οι περιορισμοί του, καθώς και τα ενδεχόμενα ρίσκα
+  όσον αφορά τη χρήση αλλά και την ενεργή συμμετοχή σε αυτό.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/555-cloudflare'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/548-is-tor-safe'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:26.083Z'
-dateModified: '2018-11-16T12:46:10.248Z'
-datePublishedOriginal: '2018-11-16T12:56:26.083Z'
+datePublished: '2018-11-16T12:56:26.084Z'
+dateModified: '2018-11-16T12:44:27.677Z'
+datePublishedOriginal: '2018-11-16T12:56:26.084Z'
 via: {}
 inFeed: true
 starred: false
@@ -60,4 +67,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Όλοι ξέρο&amp;upsi;μ&amp;epsi; πως το antivirus και το firewall καταναλώνο&amp;upsi;ν πολύτιμο&amp;upsi;ς πόρο&amp;upsi;ς από το σύστημά μας, &amp;epsi;νώ το 90% το&amp;upsi; χρόνο&amp;upsi; δ&amp;epsi;ν χρησιμ&amp;epsi;ύο&amp;upsi;ν σ&amp;epsi; τίποτα. Όπως όμως και μ&amp;epsi; το&amp;upsi;ς π&amp;upsi;ροσβέστ&amp;epsi;ς, πο&amp;upsi; δ&amp;epsi;ν μπορούν να πληρώνονται μόνο όταν σβήνο&amp;upsi;ν φωτιές, α&amp;upsi;τό &amp;epsi;ίναι το τίμημα για την ασφάλ&amp;epsi;ια σ&amp;epsi; ένα κόσμο γ&amp;epsi;μάτο ιούς και hacker.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/7dff099a65b026895942a872c251a542_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>η ανων&amp;upsi;μία στο Internet &amp;epsi;ίναι ένα θέμα αρκ&amp;epsi;τά δύσκολο. Παρ' ότι το δίκτ&amp;upsi;ο Tor φαντάζ&amp;epsi;ι ως μια ιδανική λύση, στην πραγματικότητα καν&amp;epsi;ίς δ&amp;epsi;ν μπορ&amp;epsi;ί να &amp;epsi;γγ&amp;upsi;ηθ&amp;epsi;ί την απόλ&amp;upsi;τη ανων&amp;upsi;μία. Στο παρόν άρθρο θα δούμ&amp;epsi; σ&amp;epsi; ποια σημ&amp;epsi;ία &amp;upsi;στ&amp;epsi;ρ&amp;epsi;ί το δίκτ&amp;upsi;ο Tor, ποιοι &amp;epsi;ίναι οι π&amp;epsi;ριορισμοί το&amp;upsi;, καθώς και τα &amp;epsi;νδ&amp;epsi;χόμ&amp;epsi;να ρίσκα όσον αφορά τη χρήση αλλά και την &amp;epsi;ν&amp;epsi;ργή σ&amp;upsi;μμ&amp;epsi;τοχή σ&amp;epsi; α&amp;upsi;τό.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/8ab790b9074fed051af256aa504a66b7_XL.jpg" /></article>
