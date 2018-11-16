@@ -33,35 +33,27 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - microsoft
-  - desktop
-  - tablet
-  - cellular
-  - smartphone
-  - κινητό
-  - τηλέφωνο
-  - υπολογιστής
-  - περίεργα
-  - μηνύματα σφάλματος
-  - υπολογιστές
-  - error
-  - message
-  - messages
-  - error messages
-  - αστεία
-  - funny
+  - passwords
+  - europe
+  - hackers
+  - attack
+  - cyber
+  - κωδικοί
+  - κωδικοί πρόσβασης
+  - κωδικός
+  - επίθεση
+  - χάκερ
 description: >-
-  Όσο και να ασχολείστε με τους υπολογιστές, ακόμα και πολύ λίγο, θα έχετε
-  συναντήσει ένα εξοργιστικό μήνυμα σφάλματος - ένα μήνυμα που δεν ταιριάζει
-  στην στιγμή και στα πιθανά λάθη που μπορεί να υπάρχουν και εγγυημένα θα σας
-  δώσει ώθηση να εξοργηστείτε στα όρια της αντοχής σας με το μηχάνημα που
-  περιμένει απαθώς και υπομονετικά την αντίδρασή σας.
+  Σύμφωνα με τα ευρήματα πρόσφατης έρευνας της Kaspersky Lab στο καταναλωτικό
+  κοινό, περίπου οι μισοί (42%) Ευρωπαίοι χρήστες του Διαδικτύου παραδέχονται
+  ότι μοιράζονται τους κωδικούς τους με κάποιον άλλον ή τους αφήνουν
+  εκτεθειμένους σε κοινή θέα, όπου άλλοι άνθρωποι μπορούν να τους δουν.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/695-funniest-computer-error-messages'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/663-european-passwords'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:26.051Z'
-dateModified: '2018-11-16T12:52:07.276Z'
-datePublishedOriginal: '2018-11-16T12:56:26.051Z'
+datePublished: '2018-11-16T12:56:26.032Z'
+dateModified: '2018-11-16T12:50:58.130Z'
+datePublishedOriginal: '2018-11-16T12:56:26.032Z'
 via: {}
 inFeed: true
 starred: false
@@ -70,4 +62,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Όσο και να ασχολ&amp;epsi;ίστ&amp;epsi; μ&amp;epsi; το&amp;upsi;ς &amp;upsi;πολογιστές, ακόμα και πολύ λίγο, θα έχ&amp;epsi;τ&amp;epsi; σ&amp;upsi;ναντήσ&amp;epsi;ι ένα &amp;epsi;ξοργιστικό μήν&amp;upsi;μα σφάλματος - ένα μήν&amp;upsi;μα πο&amp;upsi; δ&amp;epsi;ν ταιριάζ&amp;epsi;ι στην στιγμή και στα πιθανά λάθη πο&amp;upsi; μπορ&amp;epsi;ί να &amp;upsi;πάρχο&amp;upsi;ν και &amp;epsi;γγ&amp;upsi;ημένα θα σας δώσ&amp;epsi;ι ώθηση να &amp;epsi;ξοργηστ&amp;epsi;ίτ&amp;epsi; στα όρια της αντοχής σας μ&amp;epsi; το μηχάνημα πο&amp;upsi; π&amp;epsi;ριμέν&amp;epsi;ι απαθώς και &amp;upsi;πομον&amp;epsi;τικά την αντίδρασή σας.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/6d7013048d0c128a879704427738873c_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Σύμφωνα μ&amp;epsi; τα &amp;epsi;&amp;upsi;ρήματα πρόσφατης έρ&amp;epsi;&amp;upsi;νας της Kaspersky Lab στο καταναλωτικό κοινό, π&amp;epsi;ρίπο&amp;upsi; οι μισοί (42%) Ε&amp;upsi;ρωπαίοι χρήστ&amp;epsi;ς το&amp;upsi; Διαδικτύο&amp;upsi; παραδέχονται ότι μοιράζονται το&amp;upsi;ς κωδικούς το&amp;upsi;ς μ&amp;epsi; κάποιον άλλον ή το&amp;upsi;ς αφήνο&amp;upsi;ν &amp;epsi;κτ&amp;epsi;θ&amp;epsi;ιμένο&amp;upsi;ς σ&amp;epsi; κοινή θέα, όπο&amp;upsi; άλλοι άνθρωποι μπορούν να το&amp;upsi;ς δο&amp;upsi;ν.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/6e100b693083fe7b237779ffd809d8b7_XL.jpg" /></article>
