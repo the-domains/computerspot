@@ -33,26 +33,25 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - movie
-  - movies
-  - video
-  - videos.adblock
-  - browser
-  - adblock browser
-  - περιηγητής
-  - διαφημίσεις
+  - ταχύτητα
+  - ασφάλεια
+  - cloudflare
+  - cdn
+  - spam
+  - σπαμ
+  - firewall
 description: >-
-  Μετά από μερικές εβδομάδες σε έκδοση beta, οι χρήστες συσκευών Android και iOS
-  μπορούν πλέον να κατεβάσουν δωρεάν την επίσημη τελική έκδοση του AdBlock
-  Browser, η οποία μπλοκάρει τις διαφημίσεις που εμφανίζονται στις ιστοσελίδες
-  για μεγαλύτερη ταχύτητα στο σερφάρισμα, μείωση στην κατανάλωση data και
-  εξοικονόμηση μπαταρίας.
+  Όλοι ξέρουμε πως το antivirus και το firewall καταναλώνουν πολύτιμους πόρους
+  από το σύστημά μας, ενώ το 90% του χρόνου δεν χρησιμεύουν σε τίποτα. Όπως όμως
+  και με τους πυροσβέστες, που δεν μπορούν να πληρώνονται μόνο όταν σβήνουν
+  φωτιές, αυτό είναι το τίμημα για την ασφάλεια σε ένα κόσμο γεμάτο ιούς και
+  hacker.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/566-adblock-browser'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/555-cloudflare'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:26.065Z'
-dateModified: '2018-11-16T12:46:23.902Z'
-datePublishedOriginal: '2018-11-16T12:56:26.065Z'
+datePublished: '2018-11-16T12:56:26.083Z'
+dateModified: '2018-11-16T12:46:10.248Z'
+datePublishedOriginal: '2018-11-16T12:56:26.083Z'
 via: {}
 inFeed: true
 starred: false
@@ -61,4 +60,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Μ&amp;epsi;τά από μ&amp;epsi;ρικές &amp;epsi;βδομάδ&amp;epsi;ς σ&amp;epsi; έκδοση beta, οι χρήστ&amp;epsi;ς σ&amp;upsi;σκ&amp;epsi;&amp;upsi;ών Android και iOS μπορούν πλέον να κατ&amp;epsi;βάσο&amp;upsi;ν δωρ&amp;epsi;άν την &amp;epsi;πίσημη τ&amp;epsi;λική έκδοση το&amp;upsi; AdBlock Browser, η οποία μπλοκάρ&amp;epsi;ι τις διαφημίσ&amp;epsi;ις πο&amp;upsi; &amp;epsi;μφανίζονται στις ιστοσ&amp;epsi;λίδ&amp;epsi;ς για μ&amp;epsi;γαλύτ&amp;epsi;ρη ταχύτητα στο σ&amp;epsi;ρφάρισμα, μ&amp;epsi;ίωση στην κατανάλωση data και &amp;epsi;ξοικονόμηση μπαταρίας.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/d3787968271aadf66b69e2f7e02571e2_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Όλοι ξέρο&amp;upsi;μ&amp;epsi; πως το antivirus και το firewall καταναλώνο&amp;upsi;ν πολύτιμο&amp;upsi;ς πόρο&amp;upsi;ς από το σύστημά μας, &amp;epsi;νώ το 90% το&amp;upsi; χρόνο&amp;upsi; δ&amp;epsi;ν χρησιμ&amp;epsi;ύο&amp;upsi;ν σ&amp;epsi; τίποτα. Όπως όμως και μ&amp;epsi; το&amp;upsi;ς π&amp;upsi;ροσβέστ&amp;epsi;ς, πο&amp;upsi; δ&amp;epsi;ν μπορούν να πληρώνονται μόνο όταν σβήνο&amp;upsi;ν φωτιές, α&amp;upsi;τό &amp;epsi;ίναι το τίμημα για την ασφάλ&amp;epsi;ια σ&amp;epsi; ένα κόσμο γ&amp;epsi;μάτο ιούς και hacker.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/7dff099a65b026895942a872c251a542_XL.jpg" /></article>
