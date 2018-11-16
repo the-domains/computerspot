@@ -43,17 +43,39 @@ keywords:
   - net
   - internet
   - ίντερνετ
+  - bbc
+  - μελέτη
+  - παιδική πορνογραφία
+  - παιδική
+  - πορνογραφία
+  - infrastructure
+  - υπενθυμίζεται
+  - παράλληλα
+  - έντουαρντ
+  - σνόουντεν
+  - facebook
+  - αυστραλία
+  - ίντερνετ
+  - secrecy
+  - router
+  - perfect
+  - forward
+  - σουηδία
+  - καναδά
+  - σίλικον
+  - browser
+  - μάφετ
 description: >-
-  "Στο Internet κανείς δεν ξέρει ότι είσαι σκύλος". Τι εστί όμως Tor? Πρόκειται
-  για ένα κρυπτογραφημένο δίκτυο που, για να φτάσουμε στη σελίδα του προορισμού
-  μας, μας περνάει μέσα από ενδιάμεσους κόμβους (relays) του δικτύου και μας
-  βγάζει από κόμβους εξόδου (exit nodes).
+  Τη δυνατότητα άμεσης πρόσβασης μέσω του δικτύου ανωνυμίας Tor (The Onion
+  Router) παρέχει πλέον το Facebook στους χρήστες του, στην εποχή μετά τις
+  αποκαλύψεις του Έντουαρντ Σνόουντεν για τις ηλεκτρονικές παρακολουθήσεις από
+  τις υπηρεσίες πληροφοριών των ΗΠΑ.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/545-tor-network'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/543-facebook-on-tor'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:26.072Z'
-dateModified: '2018-11-16T12:44:11.570Z'
-datePublishedOriginal: '2018-11-16T12:56:26.072Z'
+datePublished: '2018-11-16T12:56:26.077Z'
+dateModified: '2018-11-16T12:43:49.495Z'
+datePublishedOriginal: '2018-11-16T12:56:26.077Z'
 via: {}
 inFeed: true
 starred: false
@@ -62,4 +84,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>"Στο Internet καν&amp;epsi;ίς δ&amp;epsi;ν ξέρ&amp;epsi;ι ότι &amp;epsi;ίσαι σκύλος". Τι &amp;epsi;στί όμως Tor? Πρόκ&amp;epsi;ιται για ένα κρ&amp;upsi;πτογραφημένο δίκτ&amp;upsi;ο πο&amp;upsi;, για να φτάσο&amp;upsi;μ&amp;epsi; στη σ&amp;epsi;λίδα το&amp;upsi; προορισμού μας, μας π&amp;epsi;ρνά&amp;epsi;ι μέσα από &amp;epsi;νδιάμ&amp;epsi;σο&amp;upsi;ς κόμβο&amp;upsi;ς (relays) το&amp;upsi; δικτύο&amp;upsi; και μας βγάζ&amp;epsi;ι από κόμβο&amp;upsi;ς &amp;epsi;ξόδο&amp;upsi; (exit nodes).</p><img src="https://www.coffeespots.gr/media/k2/items/cache/16fd96deba85a06311383433f152ed24_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Τη δ&amp;upsi;νατότητα άμ&amp;epsi;σης πρόσβασης μέσω το&amp;upsi; δικτύο&amp;upsi; ανων&amp;upsi;μίας Tor (The Onion Router) παρέχ&amp;epsi;ι πλέον το Facebook στο&amp;upsi;ς χρήστ&amp;epsi;ς το&amp;upsi;, στην &amp;epsi;ποχή μ&amp;epsi;τά τις αποκαλύψ&amp;epsi;ις το&amp;upsi; Έντο&amp;upsi;αρντ Σνόο&amp;upsi;ντ&amp;epsi;ν για τις ηλ&amp;epsi;κτρονικές παρακολο&amp;upsi;θήσ&amp;epsi;ις από τις &amp;upsi;πηρ&amp;epsi;σί&amp;epsi;ς πληροφοριών των ΗΠΑ.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/6a501db6788f8bc3147fbec59d7a4924_XL.jpg" /></article>
