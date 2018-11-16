@@ -33,31 +33,26 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - tor
-  - the onion router
-  - onion
-  - router
-  - dark net
-  - darknet
-  - dark
-  - net
-  - internet
-  - ίντερνετ
-  - ανωνυμία
-  - anonymity
-  - safety
-  - ασφάλεια
+  - smartphone
+  - τηλέφωνο
+  - κινητό
+  - κινητό τηλέφωνο
+  - android
+  - προβολή
+  - bracelet
+  - βραχιόλι
+  - χέρι
 description: >-
-  η ανωνυμία στο Internet είναι ένα θέμα αρκετά δύσκολο. Παρ' ότι το δίκτυο Tor
-  φαντάζει ως μια ιδανική λύση, στην πραγματικότητα κανείς δεν μπορεί να
-  εγγυηθεί την απόλυτη ανωνυμία. Στο παρόν άρθρο θα δούμε σε ποια σημεία υστερεί
-  το δίκτυο Tor, ποιοι είναι οι περιορισμοί του, καθώς και τα ενδεχόμενα ρίσκα
-  όσον αφορά τη χρήση αλλά και την ενεργή συμμετοχή σε αυτό.
+  Μιλάμε συνεχώς για τις σημερινές οθόνες των κινητών οι οποίες όσο περνάει ο
+  καιρός έχουν μια τάση να μεγαλώνουν πράγμα που σημαίνει ότι οι συσκευές
+  γίνονται πιο ογκώδεις και δύσκολες να τις έχεις επάνω σου. Παράλληλα όμως οι
+  μεγάλες οθόνες θεωρούνται απαραίτητες από τους περισσότερους οι οποίοι δεν
+  μπορούν να επιστρέψουν σε μικρές συσκευές.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/548-is-tor-safe'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/551-cicret-bracelet'
 title: coffeespots.gr
 datePublished: '2018-11-16T12:56:26.084Z'
-dateModified: '2018-11-16T12:44:27.677Z'
+dateModified: '2018-11-16T12:44:52.611Z'
 datePublishedOriginal: '2018-11-16T12:56:26.084Z'
 via: {}
 inFeed: true
@@ -67,4 +62,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>η ανων&amp;upsi;μία στο Internet &amp;epsi;ίναι ένα θέμα αρκ&amp;epsi;τά δύσκολο. Παρ' ότι το δίκτ&amp;upsi;ο Tor φαντάζ&amp;epsi;ι ως μια ιδανική λύση, στην πραγματικότητα καν&amp;epsi;ίς δ&amp;epsi;ν μπορ&amp;epsi;ί να &amp;epsi;γγ&amp;upsi;ηθ&amp;epsi;ί την απόλ&amp;upsi;τη ανων&amp;upsi;μία. Στο παρόν άρθρο θα δούμ&amp;epsi; σ&amp;epsi; ποια σημ&amp;epsi;ία &amp;upsi;στ&amp;epsi;ρ&amp;epsi;ί το δίκτ&amp;upsi;ο Tor, ποιοι &amp;epsi;ίναι οι π&amp;epsi;ριορισμοί το&amp;upsi;, καθώς και τα &amp;epsi;νδ&amp;epsi;χόμ&amp;epsi;να ρίσκα όσον αφορά τη χρήση αλλά και την &amp;epsi;ν&amp;epsi;ργή σ&amp;upsi;μμ&amp;epsi;τοχή σ&amp;epsi; α&amp;upsi;τό.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/8ab790b9074fed051af256aa504a66b7_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Μιλάμ&amp;epsi; σ&amp;upsi;ν&amp;epsi;χώς για τις σημ&amp;epsi;ρινές οθόν&amp;epsi;ς των κινητών οι οποί&amp;epsi;ς όσο π&amp;epsi;ρνά&amp;epsi;ι ο καιρός έχο&amp;upsi;ν μια τάση να μ&amp;epsi;γαλώνο&amp;upsi;ν πράγμα πο&amp;upsi; σημαίν&amp;epsi;ι ότι οι σ&amp;upsi;σκ&amp;epsi;&amp;upsi;ές γίνονται πιο ογκώδ&amp;epsi;ις και δύσκολ&amp;epsi;ς να τις έχ&amp;epsi;ις &amp;epsi;πάνω σο&amp;upsi;. Παράλληλα όμως οι μ&amp;epsi;γάλ&amp;epsi;ς οθόν&amp;epsi;ς θ&amp;epsi;ωρούνται απαραίτητ&amp;epsi;ς από το&amp;upsi;ς π&amp;epsi;ρισσότ&amp;epsi;ρο&amp;upsi;ς οι οποίοι δ&amp;epsi;ν μπορούν να &amp;epsi;πιστρέψο&amp;upsi;ν σ&amp;epsi; μικρές σ&amp;upsi;σκ&amp;epsi;&amp;upsi;ές.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/617a2776f20d4e817afffbdbb257cffa_XL.jpg" /></article>
