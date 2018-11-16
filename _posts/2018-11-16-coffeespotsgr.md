@@ -33,32 +33,57 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - adobe
-  - remix
-  - adoberemix
-  - '#adoberemix'
-  - logo
-  - λογότυπο
-  - δημιουργικότητα
-  - δημιουργία
+  - day
+  - μέρα
+  - pirate
+  - bay
+  - swedish
+  - polish
+  - σουηδική
+  - αστυνομία
+  - έφοδος
+  - the pirate bay
+  - down
+  - downtime
+  - off line
+  - torrent freak
+  - eztv
+  - server
+  - torrent
+  - torrents
+  - site
+  - website
+  - ugly
+  - bugs
+  - έκλεισε
+  - gamato
+  - gamatotv
+  - gamatotv.org
+  - ταινίες
+  - streaming
+  - κατέβασμα
+  - streaming video
+  - movie
+  - movies
+  - video
+  - videos
 description: >-
-  Κατά πάσα πιθανότητα, και ιδιαίτερα αν ασχολείστε λίγο καιρό με τους
-  υπολογιστές, θα γνωρίζετε την εταιρία λογισμικού Adobe. Αυτό κυρίως της
-  ευρείας αποδοχής που έχουν τα προϊόντα που παράγει η εν λόγω εταιρία με
-  Ναυαρχίδα το Adobe Acrobat που η έκδοση Reader του βρίσκεται σε πάρα πολλούς
-  υπολογιστές.
+  Συνελήφθη από τη Διεύθυνση Δίωξης Ηλεκτρονικού Εγκλήματος, 32χρονος ημεδαπός
+  για παράβαση της νομοθεσίας για την πνευματική ιδιοκτησία κατ' εξακολούθηση,
+  μέσω διαδικτύου, Επιπλέον, σχηματίστηκε δικογραφία τακτικής διαδικασίας σε
+  βάρος 28χρονου ημεδαπού για τα ίδια αδικήματα.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/619-adoberemix'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/605-gamato-eol'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.257Z'
+datePublished: '2018-11-16T12:57:27.237Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.050Z'
+datePublishedOriginal: '2018-11-16T12:56:26.063Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Κατά πάσα πιθανότητα, και ιδιαίτ&amp;epsi;ρα αν ασχολ&amp;epsi;ίστ&amp;epsi; λίγο καιρό μ&amp;epsi; το&amp;upsi;ς &amp;upsi;πολογιστές, θα γνωρίζ&amp;epsi;τ&amp;epsi; την &amp;epsi;ταιρία λογισμικού Adobe. Α&amp;upsi;τό κ&amp;upsi;ρίως της &amp;epsi;&amp;upsi;ρ&amp;epsi;ίας αποδοχής πο&amp;upsi; έχο&amp;upsi;ν τα προϊόντα πο&amp;upsi; παράγ&amp;epsi;ι η &amp;epsi;ν λόγω &amp;epsi;ταιρία μ&amp;epsi; Να&amp;upsi;αρχίδα το Adobe Acrobat πο&amp;upsi; η έκδοση Reader το&amp;upsi; βρίσκ&amp;epsi;ται σ&amp;epsi; πάρα πολλούς &amp;upsi;πολογιστές.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/a05c597f0fd5beafc6fa40acefae0330_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Σ&amp;upsi;ν&amp;epsi;λήφθη από τη Δι&amp;epsi;ύθ&amp;upsi;νση Δίωξης Ηλ&amp;epsi;κτρονικού Εγκλήματος, 32χρονος ημ&amp;epsi;δαπός για παράβαση της νομοθ&amp;epsi;σίας για την πν&amp;epsi;&amp;upsi;ματική ιδιοκτησία κατ' &amp;epsi;ξακολούθηση, μέσω διαδικτύο&amp;upsi;, Επιπλέον, σχηματίστηκ&amp;epsi; δικογραφία τακτικής διαδικασίας σ&amp;epsi; βάρος 28χρονο&amp;upsi; ημ&amp;epsi;δαπού για τα ίδια αδικήματα.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/1eca156427374c8abf4738e42b464eef_XL.jpg" /></article>
