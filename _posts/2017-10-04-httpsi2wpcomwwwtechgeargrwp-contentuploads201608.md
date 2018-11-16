@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-11-16T12:57:27.185Z'
-dateModified: '2018-11-16T12:57:25.406Z'
+datePublished: '2018-11-16T13:14:32.242Z'
+dateModified: '2018-11-16T13:14:31.432Z'
 via: {}
 description: >-
   Η Acer παρουσίασε το πανίσχυρο gaming laptop Predator 21 X στην IFA Berlin
@@ -13,9 +13,11 @@ title: ''
 sourcePath: _posts/2017-10-04-httpsi2wpcomwwwtechgeargrwp-contentuploads201608.md
 inFeed: true
 author: []
+hasPage: true
 starred: true
 datePublishedOriginal: '2017-10-04T09:08:47.233Z'
-_type: Blurb
+url: h-acer-paroysiase-to-panisxyro-gaming-laptop-predator-21-x-s/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ff8f073-c306-4d21-933d-21d92e694a53.jpg)
