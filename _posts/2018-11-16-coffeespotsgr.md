@@ -33,43 +33,28 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - stephen
-  - hawking
-  - died
-  - at 76
-  - στίβεν χόκινγκ
-  - στίβεν
-  - χόκινγκ
-  - πέθανε
-  - απεβίωσε
-  - αστροφυσικός
-  - βρετανός
-  - κέιμπριτζ
-  - astrophysicist
-  - astrophysics
-  - british
-  - cambridge
-  - λούσι χώκινγκ
-  - ρόμπερτ χώκινγκ
-  - τίμοθι χώκινγκ
-  - ελέιν μέισον
-  - τζέιν χώκινγκ
+  - παγκόσμια ημέρα
+  - πρωτομαγιά
+  - 1 μαΐου
+  - παγκόσμια ημέρα για την σταθερά του planck
+  - planck
+  - σταθερά planck.
 description: >-
-  Ο διαπρεπής Bρετανός θεωρητικός φυσικός Στίβεν Χόκινγκ απεβίωσε σήμερα, σε
-  ηλικία 76 ετών. O Στίβεν Χόκινγκ και η θανατηφόρα ασθένεια που τον καθήλωσε Ο
-  διάσημος θεωρητικός φυσικός έζησε 52 χρόνια με Αμυοτροφική Πλευρική Σκλήρυνση
+  Σήμερα, 1 Μαΐου είναι η μέρα που είναι γνωστή και σαν "Παγκόσμια μέρα της
+  Σταθεράς του Πλανκ". Για την ακρίβεια είναι η "Παγκόσμια μέρα της μειωμένης
+  Σταθεράς του Πλανκ".
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/811-steven-hawking-died'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/799-planck%E2%80%99s-constant-day'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.187Z'
+datePublished: '2018-11-16T12:57:27.147Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.015Z'
+datePublishedOriginal: '2018-11-16T12:56:26.017Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Ο διαπρ&amp;epsi;πής Bρ&amp;epsi;τανός θ&amp;epsi;ωρητικός φ&amp;upsi;σικός Στίβ&amp;epsi;ν Χόκινγκ απ&amp;epsi;βίωσ&amp;epsi; σήμ&amp;epsi;ρα, σ&amp;epsi; ηλικία 76 &amp;epsi;τών. O Στίβ&amp;epsi;ν Χόκινγκ και η θανατηφόρα ασθέν&amp;epsi;ια πο&amp;upsi; τον καθήλωσ&amp;epsi; Ο διάσημος θ&amp;epsi;ωρητικός φ&amp;upsi;σικός έζησ&amp;epsi; 52 χρόνια μ&amp;epsi; Αμ&amp;upsi;οτροφική Πλ&amp;epsi;&amp;upsi;ρική Σκλήρ&amp;upsi;νση</p><img src="https://www.coffeespots.gr/media/k2/items/cache/6af8f580e799444e5a52119018e87a65_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Σήμ&amp;epsi;ρα, 1 Μαΐο&amp;upsi; &amp;epsi;ίναι η μέρα πο&amp;upsi; &amp;epsi;ίναι γνωστή και σαν "Παγκόσμια μέρα της Σταθ&amp;epsi;ράς το&amp;upsi; Πλανκ". Για την ακρίβ&amp;epsi;ια &amp;epsi;ίναι η "Παγκόσμια μέρα της μ&amp;epsi;ιωμένης Σταθ&amp;epsi;ράς το&amp;upsi; Πλανκ".</p><img src="https://www.coffeespots.gr/media/k2/items/cache/671fe58af5845f33e7786dd608484c8d_XL.jpg" /></article>
