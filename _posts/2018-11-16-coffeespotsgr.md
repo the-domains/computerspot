@@ -42,25 +42,28 @@ keywords:
   - self drive
   - drive
   - wheel
-  - volvo
-  - autonomous drive
-  - αυτόνομη οδήγηση
+  - airtouch
+  - ces
+  - bmw
+  - touchscreen
+  - gesture control
+  - ''
 description: >-
-  Η διαρκής έρευνα της Volvo στο πεδίο της αυτόνομης οδήγησης επιβεβαιώνει αυτό
-  που όλοι γνωρίζουμε - ότι οι καθημερινές αστικές μετακινήσεις αφαιρούν την
-  ευχαρίστηση από την οδήγηση.
+  Φέτος, η BMW προσθέτει "Gesture Control" στο πολυτελές 7-Series sedan της, που
+  επιτρέπει στους οδηγούς να σύρουν τα δάχτυλά τους μπροστά από την οθόνη για να
+  εκτελέσουν τις εντολές.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/649-volvo-concept-26'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/648-bmw-airtouch'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.183Z'
+datePublished: '2018-11-16T12:57:27.146Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.034Z'
+datePublishedOriginal: '2018-11-16T12:56:26.050Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Η διαρκής έρ&amp;epsi;&amp;upsi;να της Volvo στο π&amp;epsi;δίο της α&amp;upsi;τόνομης οδήγησης &amp;epsi;πιβ&amp;epsi;βαιών&amp;epsi;ι α&amp;upsi;τό πο&amp;upsi; όλοι γνωρίζο&amp;upsi;μ&amp;epsi; - ότι οι καθημ&amp;epsi;ρινές αστικές μ&amp;epsi;τακινήσ&amp;epsi;ις αφαιρούν την &amp;epsi;&amp;upsi;χαρίστηση από την οδήγηση.</p><img src="https://www.coffeespots.gr/images/latestNewsPICS/volvo_concept_26/volvo_concept_26_04.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Φέτος, η BMW προσθέτ&amp;epsi;ι "Gesture Control" στο πολ&amp;upsi;τ&amp;epsi;λές 7-Series sedan της, πο&amp;upsi; &amp;epsi;πιτρέπ&amp;epsi;ι στο&amp;upsi;ς οδηγούς να σύρο&amp;upsi;ν τα δάχτ&amp;upsi;λά το&amp;upsi;ς μπροστά από την οθόνη για να &amp;epsi;κτ&amp;epsi;λέσο&amp;upsi;ν τις &amp;epsi;ντολές.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/21615ff211c60b43d866a2b2bca320da_XL.jpg" /></article>
