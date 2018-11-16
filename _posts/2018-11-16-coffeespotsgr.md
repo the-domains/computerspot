@@ -33,28 +33,51 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - αυτόνομη
-  - οδήγηση
-  - τιμόνι
-  - αυτοκίνητο
-  - αυτοκίνηση
-  - car
-  - self drive
-  - drive
-  - wheel
-  - volvo
-  - autonomous drive
-  - αυτόνομη οδήγηση
+  - day
+  - μέρα
+  - pirate
+  - bay
+  - swedish
+  - polish
+  - σουηδική
+  - αστυνομία
+  - έφοδος
+  - the pirate bay
+  - down
+  - downtime
+  - off line
+  - torrent freak
+  - eztv
+  - server
+  - torrent
+  - torrents
+  - site
+  - website
+  - ugly
+  - bugs
+  - έκλεισε
+  - gamato
+  - gamatotv
+  - gamatotv.org
+  - ταινίες
+  - streaming
+  - κατέβασμα
+  - streaming video
+  - movie
+  - movies
+  - video
+  - videos
 description: >-
-  Η διαρκής έρευνα της Volvo στο πεδίο της αυτόνομης οδήγησης επιβεβαιώνει αυτό
-  που όλοι γνωρίζουμε - ότι οι καθημερινές αστικές μετακινήσεις αφαιρούν την
-  ευχαρίστηση από την οδήγηση.
+  Συνελήφθη από τη Διεύθυνση Δίωξης Ηλεκτρονικού Εγκλήματος, 32χρονος ημεδαπός
+  για παράβαση της νομοθεσίας για την πνευματική ιδιοκτησία κατ' εξακολούθηση,
+  μέσω διαδικτύου, Επιπλέον, σχηματίστηκε δικογραφία τακτικής διαδικασίας σε
+  βάρος 28χρονου ημεδαπού για τα ίδια αδικήματα.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/649-volvo-concept-26'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/605-gamato-eol'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:26.034Z'
-dateModified: '2018-11-16T12:49:01.108Z'
-datePublishedOriginal: '2018-11-16T12:56:26.034Z'
+datePublished: '2018-11-16T12:56:26.063Z'
+dateModified: '2018-11-16T12:47:29.061Z'
+datePublishedOriginal: '2018-11-16T12:56:26.063Z'
 via: {}
 inFeed: true
 starred: false
@@ -63,4 +86,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Η διαρκής έρ&amp;epsi;&amp;upsi;να της Volvo στο π&amp;epsi;δίο της α&amp;upsi;τόνομης οδήγησης &amp;epsi;πιβ&amp;epsi;βαιών&amp;epsi;ι α&amp;upsi;τό πο&amp;upsi; όλοι γνωρίζο&amp;upsi;μ&amp;epsi; - ότι οι καθημ&amp;epsi;ρινές αστικές μ&amp;epsi;τακινήσ&amp;epsi;ις αφαιρούν την &amp;epsi;&amp;upsi;χαρίστηση από την οδήγηση.</p><img src="https://www.coffeespots.gr/images/latestNewsPICS/volvo_concept_26/volvo_concept_26_04.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Σ&amp;upsi;ν&amp;epsi;λήφθη από τη Δι&amp;epsi;ύθ&amp;upsi;νση Δίωξης Ηλ&amp;epsi;κτρονικού Εγκλήματος, 32χρονος ημ&amp;epsi;δαπός για παράβαση της νομοθ&amp;epsi;σίας για την πν&amp;epsi;&amp;upsi;ματική ιδιοκτησία κατ' &amp;epsi;ξακολούθηση, μέσω διαδικτύο&amp;upsi;, Επιπλέον, σχηματίστηκ&amp;epsi; δικογραφία τακτικής διαδικασίας σ&amp;epsi; βάρος 28χρονο&amp;upsi; ημ&amp;epsi;δαπού για τα ίδια αδικήματα.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/1eca156427374c8abf4738e42b464eef_XL.jpg" /></article>
