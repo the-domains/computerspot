@@ -55,10 +55,27 @@ keywords:
   - website
   - ugly
   - bugs
+  - comeback
+  - επιστροφή
+  - countdown
+  - αντίστροφη μέτρηση
+  - μετρητής
+  - counter
+  - wearetpb
+  - tpb
+  - popcorntime
+  - popcorn
+  - pop corn
+  - time
+  - yts.to
+  - yts
+  - yify
+  - yify-torrents
+  - butter
   - έκλεισε
-  - gamato
-  - gamatotv
-  - gamatotv.org
+  - ποπ κορν
+  - pop corn
+  - time
   - ταινίες
   - streaming
   - κατέβασμα
@@ -68,22 +85,22 @@ keywords:
   - video
   - videos
 description: >-
-  Συνελήφθη από τη Διεύθυνση Δίωξης Ηλεκτρονικού Εγκλήματος, 32χρονος ημεδαπός
-  για παράβαση της νομοθεσίας για την πνευματική ιδιοκτησία κατ' εξακολούθηση,
-  μέσω διαδικτύου, Επιπλέον, σχηματίστηκε δικογραφία τακτικής διαδικασίας σε
-  βάρος 28χρονου ημεδαπού για τα ίδια αδικήματα.
+  Τέλος εποχής για το δημοφιλέστατο Popcorn Time ή αλλιώς το "Netflix των
+  πειρατών". Από τις αρχές της προηγούμενης εβδομάδας η υπηρεσία μπήκε σε
+  περιπέτειες καθώς κάποια από τα μέλη της άρχισαν να αποχωρούν από την ομάδα
+  λόγω νομικών και ηθικών φραγμών.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/605-gamato-eol'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/604-popcorn-time-eol'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.237Z'
+datePublished: '2018-11-16T12:57:27.222Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.063Z'
+datePublishedOriginal: '2018-11-16T12:56:26.033Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Σ&amp;upsi;ν&amp;epsi;λήφθη από τη Δι&amp;epsi;ύθ&amp;upsi;νση Δίωξης Ηλ&amp;epsi;κτρονικού Εγκλήματος, 32χρονος ημ&amp;epsi;δαπός για παράβαση της νομοθ&amp;epsi;σίας για την πν&amp;epsi;&amp;upsi;ματική ιδιοκτησία κατ' &amp;epsi;ξακολούθηση, μέσω διαδικτύο&amp;upsi;, Επιπλέον, σχηματίστηκ&amp;epsi; δικογραφία τακτικής διαδικασίας σ&amp;epsi; βάρος 28χρονο&amp;upsi; ημ&amp;epsi;δαπού για τα ίδια αδικήματα.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/1eca156427374c8abf4738e42b464eef_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Τέλος &amp;epsi;ποχής για το δημοφιλέστατο Popcorn Time ή αλλιώς το "Netflix των π&amp;epsi;ιρατών". Από τις αρχές της προηγούμ&amp;epsi;νης &amp;epsi;βδομάδας η &amp;upsi;πηρ&amp;epsi;σία μπήκ&amp;epsi; σ&amp;epsi; π&amp;epsi;ριπέτ&amp;epsi;ι&amp;epsi;ς καθώς κάποια από τα μέλη της άρχισαν να αποχωρούν από την ομάδα λόγω νομικών και ηθικών φραγμών.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/e3017719190ff1e83db12ee09e7beada_XL.jpg" /></article>
