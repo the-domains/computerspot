@@ -33,37 +33,23 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - οδήγηση
-  - τιμόνι
-  - αυτοκίνητο
-  - αυτοκίνηση
-  - car
-  - drive
-  - wheel
-  - δρόμος
-  - άσφαλτος
-  - ηλιακός
-  - συλλέκτης
-  - ηλιακό
-  - πάνελ
-  - ενέργεια
-  - solar
-  - energy
-  - motorways
-  - project
-  - panel
+  - pokemon
+  - pokemon go
+  - θεσσαλονίκη
+  - review
+  - nintento
+  - niantic
 description: >-
-  Το να βρεθεί τρόπος να αντικατασταθεί η κλασική άσφαλτος στους δρόμους με
-  καποιο υλικό που θα βοηθούσε στην παραγωγή και στην εξοικονόμηση ενέργειας και
-  στην δημιουργία ενός καλύτερου κόσμου αποτελεί ενας διαχρονικό όραμα ενός
-  ζευγαριού ερευνητών από τις ΗΠΑ. Ο Scott και η Julie Brusaw's δουλεύουν
-  πυρετωδώς προς αυτή την κατεύθυνση.
+  Το Pokemon Go έχει μπει για τα καλά στις ζωές μας και καλά θα κάνουμε να το
+  δεχτούμε. Μπορεί να είναι παροδική τρέλα αλλά μπορεί να ήρθε για να
+  αναθεωρήσει τον κόσμο των Computer Games και το τρόπο με τον οποίο τα
+  βιώνουμε.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/668-solar-motorways'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/746-pokemon-go'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:26.033Z'
-dateModified: '2018-11-16T12:51:42.831Z'
-datePublishedOriginal: '2018-11-16T12:56:26.033Z'
+datePublished: '2018-11-16T12:56:26.032Z'
+dateModified: '2018-11-16T12:52:42.407Z'
+datePublishedOriginal: '2018-11-16T12:56:26.032Z'
 via: {}
 inFeed: true
 starred: false
@@ -72,4 +58,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Το να βρ&amp;epsi;θ&amp;epsi;ί τρόπος να αντικατασταθ&amp;epsi;ί η κλασική άσφαλτος στο&amp;upsi;ς δρόμο&amp;upsi;ς μ&amp;epsi; καποιο &amp;upsi;λικό πο&amp;upsi; θα βοηθούσ&amp;epsi; στην παραγωγή και στην &amp;epsi;ξοικονόμηση &amp;epsi;νέργ&amp;epsi;ιας και στην δημιο&amp;upsi;ργία &amp;epsi;νός καλύτ&amp;epsi;ρο&amp;upsi; κόσμο&amp;upsi; αποτ&amp;epsi;λ&amp;epsi;ί &amp;epsi;νας διαχρονικό όραμα &amp;epsi;νός ζ&amp;epsi;&amp;upsi;γαριού &amp;epsi;ρ&amp;epsi;&amp;upsi;νητών από τις ΗΠΑ. Ο Scott και η Julie Brusaw's δο&amp;upsi;λ&amp;epsi;ύο&amp;upsi;ν π&amp;upsi;ρ&amp;epsi;τωδώς προς α&amp;upsi;τή την κατ&amp;epsi;ύθ&amp;upsi;νση.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/cb814f6646368a9340b7ed30aa1a9ed7_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Το Pokemon Go έχ&amp;epsi;ι μπ&amp;epsi;ι για τα καλά στις ζωές μας και καλά θα κάνο&amp;upsi;μ&amp;epsi; να το δ&amp;epsi;χτούμ&amp;epsi;. Μπορ&amp;epsi;ί να &amp;epsi;ίναι παροδική τρέλα αλλά μπορ&amp;epsi;ί να ήρθ&amp;epsi; για να αναθ&amp;epsi;ωρήσ&amp;epsi;ι τον κόσμο των Computer Games και το τρόπο μ&amp;epsi; τον οποίο τα βιώνο&amp;upsi;μ&amp;epsi;.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/a05812a6ea54f32db80b865f7cd66f25_XL.jpg" /></article>
