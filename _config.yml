@@ -1,16 +1,16 @@
-layout_spectrum: 0.1928435938996217
-typography_spectrum: 0.28599425948584584
+layout_spectrum: 0.13821430710291877
+typography_spectrum: 0.37263841390738833
 color:
-  saturation: 0.3461087637498864
-  brandStrength: 0.5862424732570416
-  rhythmicContrast: 0.1270868183208611
+  saturation: 0.5972147666550435
+  brandStrength: 0.7134567297247266
+  rhythmicContrast: 0.3000209982580699
   brandColors:
     - '#004358'
     - '#1F8A70'
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
-  lightness: 0.677813393954409
+  lightness: 0.8494702328523012
 title: ComputerSpot
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
