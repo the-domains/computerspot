@@ -33,36 +33,34 @@ keywords:
   - cup
   - capuccino
   - espresso
+  - αυτόνομη
   - οδήγηση
   - τιμόνι
   - αυτοκίνητο
   - αυτοκίνηση
   - car
+  - self drive
   - drive
   - wheel
-  - ces
-  - bmw
-  - bugatti chiron
-  - bugatti
-  - chiron
-  - geneva
-  - γενεύη
+  - volvo
+  - autonomous drive
+  - αυτόνομη οδήγηση
 description: >-
-  Ενώ μετράμε ήδη τις εβδομάδες για την Έκθεση Αυτοκινήτου της Γενεύης όπου και
-  θα παρουσιαστεί σε όλο της το μεγαλείο η Bugatti Chiron, έρχονται κάποιες
-  λεπτομέρειες σχετικά με το ιταλικό supercar για να... ζαλίσουν!
+  Η διαρκής έρευνα της Volvo στο πεδίο της αυτόνομης οδήγησης επιβεβαιώνει αυτό
+  που όλοι γνωρίζουμε - ότι οι καθημερινές αστικές μετακινήσεις αφαιρούν την
+  ευχαρίστηση από την οδήγηση.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/656-bugatti-chiron'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/649-volvo-concept-26'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.182Z'
+datePublished: '2018-11-16T12:57:27.183Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.064Z'
+datePublishedOriginal: '2018-11-16T12:56:26.034Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Ενώ μ&amp;epsi;τράμ&amp;epsi; ήδη τις &amp;epsi;βδομάδ&amp;epsi;ς για την Έκθ&amp;epsi;ση Α&amp;upsi;τοκινήτο&amp;upsi; της Γ&amp;epsi;ν&amp;epsi;ύης όπο&amp;upsi; και θα παρο&amp;upsi;σιαστ&amp;epsi;ί σ&amp;epsi; όλο της το μ&amp;epsi;γαλ&amp;epsi;ίο η Bugatti Chiron, έρχονται κάποι&amp;epsi;ς λ&amp;epsi;πτομέρ&amp;epsi;ι&amp;epsi;ς σχ&amp;epsi;τικά μ&amp;epsi; το ιταλικό supercar για να... ζαλίσο&amp;upsi;ν!</p><img src="https://www.coffeespots.gr/media/k2/items/cache/7b17ec9e1ac0efe68976696eb1e50b37_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Η διαρκής έρ&amp;epsi;&amp;upsi;να της Volvo στο π&amp;epsi;δίο της α&amp;upsi;τόνομης οδήγησης &amp;epsi;πιβ&amp;epsi;βαιών&amp;epsi;ι α&amp;upsi;τό πο&amp;upsi; όλοι γνωρίζο&amp;upsi;μ&amp;epsi; - ότι οι καθημ&amp;epsi;ρινές αστικές μ&amp;epsi;τακινήσ&amp;epsi;ις αφαιρούν την &amp;epsi;&amp;upsi;χαρίστηση από την οδήγηση.</p><img src="https://www.coffeespots.gr/images/latestNewsPICS/volvo_concept_26/volvo_concept_26_04.jpg" /></article>
