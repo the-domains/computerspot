@@ -33,33 +33,33 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - hard disk
-  - σκληρός δίσκος
-  - hdd
-  - dna
-  - έρευνα
-  - research
-  - data
-  - δεδομένα
-  - χωρητικότητα
-  - capacity
+  - smartphone
+  - τηλέφωνο
+  - κινητό
+  - κινητό τηλέφωνο
+  - android
+  - προβολή
+  - bracelet
+  - βραχιόλι
+  - χέρι
 description: >-
-  Ένα βήμα για τη χρήση του DNA ως μέσου αποθήκευσης ψηφιακών δεδομένων που θα
-  αντικαταστήσει τους σκληρούς δίσκους, οι οποίοι έχουν μειωμένη χωρητικότητα
-  και περιορισμένη αντοχή στον χρόνο, έκαναν επιστήμονες από το Ελβετικό
-  Ομοσπονδιακό Ινστιτούτο Τεχνολογίας στη Ζυρίχη
+  Μιλάμε συνεχώς για τις σημερινές οθόνες των κινητών οι οποίες όσο περνάει ο
+  καιρός έχουν μια τάση να μεγαλώνουν πράγμα που σημαίνει ότι οι συσκευές
+  γίνονται πιο ογκώδεις και δύσκολες να τις έχεις επάνω σου. Παράλληλα όμως οι
+  μεγάλες οθόνες θεωρούνται απαραίτητες από τους περισσότερους οι οποίοι δεν
+  μπορούν να επιστρέψουν σε μικρές συσκευές.
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/553-dna-hard-disks'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/551-cicret-bracelet'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.257Z'
+datePublished: '2018-11-16T12:57:27.260Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.073Z'
+datePublishedOriginal: '2018-11-16T12:56:26.084Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Ένα βήμα για τη χρήση το&amp;upsi; DNA ως μέσο&amp;upsi; αποθήκ&amp;epsi;&amp;upsi;σης ψηφιακών δ&amp;epsi;δομένων πο&amp;upsi; θα αντικαταστήσ&amp;epsi;ι το&amp;upsi;ς σκληρούς δίσκο&amp;upsi;ς, οι οποίοι έχο&amp;upsi;ν μ&amp;epsi;ιωμένη χωρητικότητα και π&amp;epsi;ριορισμένη αντοχή στον χρόνο, έκαναν &amp;epsi;πιστήμον&amp;epsi;ς από το Ελβ&amp;epsi;τικό Ομοσπονδιακό Ινστιτούτο Τ&amp;epsi;χνολογίας στη Ζ&amp;upsi;ρίχη</p><img src="https://www.coffeespots.gr/media/k2/items/cache/6fe1c589e796bff64c81da223cb0c48f_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Μιλάμ&amp;epsi; σ&amp;upsi;ν&amp;epsi;χώς για τις σημ&amp;epsi;ρινές οθόν&amp;epsi;ς των κινητών οι οποί&amp;epsi;ς όσο π&amp;epsi;ρνά&amp;epsi;ι ο καιρός έχο&amp;upsi;ν μια τάση να μ&amp;epsi;γαλώνο&amp;upsi;ν πράγμα πο&amp;upsi; σημαίν&amp;epsi;ι ότι οι σ&amp;upsi;σκ&amp;epsi;&amp;upsi;ές γίνονται πιο ογκώδ&amp;epsi;ις και δύσκολ&amp;epsi;ς να τις έχ&amp;epsi;ις &amp;epsi;πάνω σο&amp;upsi;. Παράλληλα όμως οι μ&amp;epsi;γάλ&amp;epsi;ς οθόν&amp;epsi;ς θ&amp;epsi;ωρούνται απαραίτητ&amp;epsi;ς από το&amp;upsi;ς π&amp;epsi;ρισσότ&amp;epsi;ρο&amp;upsi;ς οι οποίοι δ&amp;epsi;ν μπορούν να &amp;epsi;πιστρέψο&amp;upsi;ν σ&amp;epsi; μικρές σ&amp;upsi;σκ&amp;epsi;&amp;upsi;ές.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/617a2776f20d4e817afffbdbb257cffa_XL.jpg" /></article>
