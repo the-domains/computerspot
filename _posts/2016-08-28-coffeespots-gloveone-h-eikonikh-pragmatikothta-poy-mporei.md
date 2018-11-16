@@ -1,30 +1,36 @@
 ---
-datePublished: '2016-08-28T12:19:15.994Z'
-sourcePath: _posts/2016-08-28-coffeespots-gloveone-h-eikonikh-pragmatikothta-poy-mporei.md
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/494-gloveone'
-keywords: []
-related: []
+description: >-
+  Τα τελευταία χρόνια στον τομέα της Εικονικής Πραγματικότητας έχουν γίνει
+  άλματα! Από συσκευές που δίνουν την ψευδαίσθηση του βάθους μέχρι πρωτοτυπίες
+  που παρακολουθούν την κίνηση των χεριών ή του σώματος για να δημιουργήσουν ένα
+  εικονικό περιβάλλον στο οποίο κανείς μπορεί να αλληλεπιδρά, το VR είναι
+  σίγουρα ένας τομέας που εξάπτει την φαντασία!
+datePublished: '2018-11-16T12:57:27.258Z'
+app_links: []
 author: []
 via: {}
-dateModified: '2016-08-28T12:19:15.406Z'
-title: ''
-app_links: []
-publisher: {}
-description: 'GloveOne: Η εικονική πραγματικότητα που μπορείς να την "αγγίξεις"'
+sourcePath: _posts/2016-08-28-coffeespots-gloveone-h-eikonikh-pragmatikothta-poy-mporei.md
 inLanguage: el
-starred: false
+title: 'GloveOne: Η εικονική πραγματικότητα που μπορείς να την "αγγίξεις"'
+keywords: []
+publisher: {}
+dateModified: '2018-11-16T12:57:25.406Z'
+related: []
 inFeed: true
-hasPage: false
-inNav: false
-_context: 'http://schema.org'
+hasPage: true
+starred: false
+datePublishedOriginal: '2016-12-21T07:31:43.110Z'
+url: gloveone-h-eikonikh-pragmatikothta-poy-mporeis-na-thn-aggi/index.html
 _type: MediaObject
+_context: 'http://schema.org'
 
 ---
+# GloveOne: Η εικονική πραγματικότητα που μπορείς να την "αγγίξεις"
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edd77a62-7b12-46e5-9c35-9cb326225354.jpg)
 
-GloveOne: Η εικονική πραγματικότητα που μπορείς να την "αγγίξεις"
-
 Τα τελευταία χρόνια στον τομέα της Εικονικής Πραγματικότητας έχουν γίνει άλματα! Από συσκευές που δίνουν την ψευδαίσθηση του βάθους μέχρι πρωτοτυπίες που παρακολουθούν την κίνηση των χεριών ή του σώματος για να δημιουργήσουν ένα εικονικό περιβάλλον στο οποίο κανείς μπορεί να αλληλεπιδρά, το VR είναι σίγουρα ένας τομέας που εξάπτει την φαντασία!
+
+[Η Καμπάνια του GloveOne στο Kickstarter.com βρίσκεται εδώ.][0]
 
 Κάθε φορά που μας εισάγουν σε έναν εικονικό κόσμο, ειδικά με την χρήση ενός «εικονικού σκάφανδρου», το πρώτο πράγμα που θέλουμε να κάνουμε είναι να αγγίξουμε τα πάντα γύρω μας! Εφ' όσον η ψευδαίσθηση της εικόνας και του βάθους αυτής είναι επαρκής, το επόμενο βήμα είναι να χρησιμοποιήσουμε τα χέρια μας για να αλληλεπιδράσουμε με τα εικονικά αντικείμενα του εικονικού κόσμου. Φυσικά κάτι τέτοιο δεν είναι ακόμα εφικτό μιας και τα χέρια μας θα αγγίξουν αέρα και η ψευδαίσθηση της ενσωμάτωσής μας σ' αυτό τον κόσμο θα είναι λιγότερο εντυπωσιακή.
 
@@ -36,12 +42,14 @@ GloveOne: Η εικονική πραγματικότητα που μπορείς
 
 Θα σας πούμε μόνο το εξής, μπορεί κανείς να αισθανθεί το δυσάρεστο συναίσθημα που προκαλεί η φωτιά στην παλάμη, αλλά γλυτώνει το έγκαυμα απ' αυτήν.
 
-Το GloveOne ελπίζει να χρηματοδοτηθεί μέσω της καμπάνιας του στο [KickStarter.com][0] και έχει ξεκινήσει εδώ και μερικές ημέρες. Με κάτι παραπάνω από 30 ημέρες να μένουν για την λήξη της καμπάνιας, πλησιάζει ήδη το 30% του στόχου του και την στιγμή αυτή έχει ήδη χρηματοδοτηθεί με πάνω από 40.000$. Αν θέλετε μπορείτε κι εσείς να στηρίξετε αυτό το project ώστε να δούμε να ολοκληρώνεται ένα πολύ εντυπωσιακό επίτευγμα στον χώρο του VR.
+Το GloveOne ελπίζει να χρηματοδοτηθεί μέσω της καμπάνιας του στο KickStarter.com και έχει ξεκινήσει εδώ και μερικές ημέρες. Με κάτι παραπάνω από 30 ημέρες να μένουν για την λήξη της καμπάνιας, πλησιάζει ήδη το 30% του στόχου του και την στιγμή αυτή έχει ήδη χρηματοδοτηθεί με πάνω από 40.000$. Αν θέλετε μπορείτε κι εσείς να στηρίξετε αυτό το project ώστε να δούμε να ολοκληρώνεται ένα πολύ εντυπωσιακό επίτευγμα στον χώρο του VR.
 
 Εμείς εδώ στο CoffeeSpots σας καλούμε να στηρίξετε την προσπάθεια συγκέντρωσης πόρων από μια ομάδα νέων που φαίνεται ότι έχουν το μεράκι να αλλάξουν τον τρόπο που «νοιώθουμε» τον κόσμο γύρω μας
 
-[Η Καμπάνια του GloveOne στο Kickstarter.com βρίσκεται εδώ.][0]
+Η Καμπάνια του GloveOne στο Kickstarter.com βρίσκεται εδώ.
 
-<iframe src="https://player.vimeo.com/video/129434792" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen\></iframe\>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdzkEOgyAQheGrkDmAtEpsbMS7IIxlUugYQEl7-pp25_L7Fy9vpCWZiCInq8GXsua7lGswb0zNThG5sRzlTg5ZXttBdeo2tCAqueI19OoCwiM9fNHQ9Qd-azMnh0nD4Yrzk4oJgeuyhZBtQnyJyJ9zOnka5f_Z9AV-4zjw" height="244" style=""></iframe>
+
+https://player.vimeo.com/video/129434792
 
 [0]: https://www.kickstarter.com/projects/gloveone/gloveone-feel-virtual-reality?utm_source=Leap+Motion+Newsletter&utm_campaign=5f601c19df-Newsletter_115
