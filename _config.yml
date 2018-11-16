@@ -114,3 +114,5 @@ purpose:
     url: 'mailto:services+thegrid@computerspot.gr'
     label: Επικοινωνήστε με email
 github: true
+analytics:
+  google: UA-48150702-1
