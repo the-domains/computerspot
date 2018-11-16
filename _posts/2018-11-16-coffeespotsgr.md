@@ -33,21 +33,39 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - ημέρα αποθήκευσης αρχείων
-  - world backup day
-  - mat honan
-  - παγκόσμια ημέρα
+  - education
+  - μόρφωση
+  - παιδεία
+  - σχολείο
+  - μάθημα
+  - school
+  - lesson
+  - πρόγραμμα
+  - εκπαιδευτικοί
+  - εκπαιδευτικός
+  - educator
+  - educators
+  - teachers
+  - δάσκαλοι
+  - ώρα μαθήματος
+  - διάδραση
+  - διαδραστικός πίνακας
+  - διαδραστικός
+  - διαδραστικό
+  - interactive
+  - interactive board
+  - interactive desk
+  - διαδραστικό θρανίο
 description: >-
-  Ο Mat είναι συντάκτης στην ιστοσελίδα wired.com και μέσα σε μία μέρα είδε την
-  ψηφιακή του ζωή να καταστρέφεται απλά και μόνο γιατί σε κάποιον άρεσε το
-  username του στο twitter και το ήθελε για τον εαυτό του (@mat).
+  Από τους διαδραστικούς πίνακες ...στα διαδραστικά θρανία. H εκπαίδευση
+  εξελίσσεται. Τα τεχνικά και εποπτικά μέσα διδασκαλίας δε θα μείνουν τα ίδια
+  όπως τα ξέραμε.
 app_links: []
-isBasedOnUrl: >-
-  https://www.coffeespots.gr/hot-news/item/798-%CE%B7-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1-%CF%84%CE%BF%CF%85-mat-honan-%CF%84%CE%BF-%CE%AD%CE%BD%CE%B1%CF%85%CF%83%CE%BC%CE%B1-%CF%84%CE%B7%CF%82-%CF%80%CE%B1%CE%B3%CE%BA%CF%8C%CF%83%CE%BC%CE%B9%CE%B1%CF%82-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82-%CE%B1%CF%80%CE%BF%CE%B8%CE%AE%CE%BA%CE%B5%CF%85%CF%83%CE%B7%CF%82-%CE%B1%CF%81%CF%87%CE%B5%CE%AF%CF%89%CE%BD
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/664-interactive-desks'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:26.065Z'
-dateModified: '2018-11-16T12:53:41.496Z'
-datePublishedOriginal: '2018-11-16T12:56:26.065Z'
+datePublished: '2018-11-16T12:56:26.051Z'
+dateModified: '2018-11-16T12:51:18.568Z'
+datePublishedOriginal: '2018-11-16T12:56:26.051Z'
 via: {}
 inFeed: true
 starred: false
@@ -56,4 +74,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Ο Mat &amp;epsi;ίναι σ&amp;upsi;ντάκτης στην ιστοσ&amp;epsi;λίδα wired.com και μέσα σ&amp;epsi; μία μέρα &amp;epsi;ίδ&amp;epsi; την ψηφιακή το&amp;upsi; ζωή να καταστρέφ&amp;epsi;ται απλά και μόνο γιατί σ&amp;epsi; κάποιον άρ&amp;epsi;σ&amp;epsi; το username το&amp;upsi; στο twitter και το ήθ&amp;epsi;λ&amp;epsi; για τον &amp;epsi;α&amp;upsi;τό το&amp;upsi; (@mat).</p><img src="https://www.coffeespots.gr/media/k2/items/cache/9ec5addc67447038d196a2fc30522c2d_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Από το&amp;upsi;ς διαδραστικούς πίνακ&amp;epsi;ς ...στα διαδραστικά θρανία. H &amp;epsi;κπαίδ&amp;epsi;&amp;upsi;ση &amp;epsi;ξ&amp;epsi;λίσσ&amp;epsi;ται. Τα τ&amp;epsi;χνικά και &amp;epsi;ποπτικά μέσα διδασκαλίας δ&amp;epsi; θα μ&amp;epsi;ίνο&amp;upsi;ν τα ίδια όπως τα ξέραμ&amp;epsi;.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/5003d452a8da016f3ed02a6385cf54e8_XL.jpg" /></article>
