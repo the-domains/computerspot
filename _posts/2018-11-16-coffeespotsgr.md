@@ -33,39 +33,21 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - education
-  - μόρφωση
-  - παιδεία
-  - σχολείο
-  - μάθημα
-  - school
-  - lesson
-  - πρόγραμμα
-  - εκπαιδευτικοί
-  - εκπαιδευτικός
-  - educator
-  - educators
-  - teachers
-  - δάσκαλοι
-  - ώρα μαθήματος
-  - διάδραση
-  - διαδραστικός πίνακας
-  - διαδραστικός
-  - διαδραστικό
-  - interactive
-  - interactive board
-  - interactive desk
-  - διαδραστικό θρανίο
+  - ημέρα αποθήκευσης αρχείων
+  - world backup day
+  - mat honan
+  - παγκόσμια ημέρα
 description: >-
-  Από τους διαδραστικούς πίνακες ...στα διαδραστικά θρανία. H εκπαίδευση
-  εξελίσσεται. Τα τεχνικά και εποπτικά μέσα διδασκαλίας δε θα μείνουν τα ίδια
-  όπως τα ξέραμε.
+  Την τελευταία εβδομάδα του Μαρτίου του 2010 κάποιοι χρήστες του ιστότοπου
+  κοινωνικής δικτύωσης reddit είχαν την ιδέα να αφιερώσουν μία ημέρα στην
+  αρχειοθέτηση των δεδομένων των ηλεκτρονικών υπολογιστών (backup).
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/664-interactive-desks'
+isBasedOnUrl: >-
+  https://www.coffeespots.gr/hot-news/item/797-%CF%80%CE%B1%CE%B3%CE%BA%CF%8C%CF%83%CE%BC%CE%B9%CE%B1-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1-%CE%B1%CF%80%CE%BF%CE%B8%CE%AE%CE%BA%CE%B5%CF%85%CF%83%CE%B7%CF%82-%CE%B1%CF%81%CF%87%CE%B5%CE%AF%CF%89%CE%BD
 title: coffeespots.gr
-datePublished: '2018-11-16T12:56:26.051Z'
-dateModified: '2018-11-16T12:51:18.568Z'
-datePublishedOriginal: '2018-11-16T12:56:26.051Z'
+datePublished: '2018-11-16T12:56:26.052Z'
+dateModified: '2018-11-16T12:53:20.711Z'
+datePublishedOriginal: '2018-11-16T12:56:26.052Z'
 via: {}
 inFeed: true
 starred: false
@@ -74,4 +56,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Από το&amp;upsi;ς διαδραστικούς πίνακ&amp;epsi;ς ...στα διαδραστικά θρανία. H &amp;epsi;κπαίδ&amp;epsi;&amp;upsi;ση &amp;epsi;ξ&amp;epsi;λίσσ&amp;epsi;ται. Τα τ&amp;epsi;χνικά και &amp;epsi;ποπτικά μέσα διδασκαλίας δ&amp;epsi; θα μ&amp;epsi;ίνο&amp;upsi;ν τα ίδια όπως τα ξέραμ&amp;epsi;.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/5003d452a8da016f3ed02a6385cf54e8_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Την τ&amp;epsi;λ&amp;epsi;&amp;upsi;ταία &amp;epsi;βδομάδα το&amp;upsi; Μαρτίο&amp;upsi; το&amp;upsi; 2010 κάποιοι χρήστ&amp;epsi;ς το&amp;upsi; ιστότοπο&amp;upsi; κοινωνικής δικτύωσης reddit &amp;epsi;ίχαν την ιδέα να αφι&amp;epsi;ρώσο&amp;upsi;ν μία ημέρα στην αρχ&amp;epsi;ιοθέτηση των δ&amp;epsi;δομένων των ηλ&amp;epsi;κτρονικών &amp;upsi;πολογιστών (backup).</p><img src="https://www.coffeespots.gr/media/k2/items/cache/5b74e738223d177a4030153c35f64896_XL.jpg" /></article>
