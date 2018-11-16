@@ -33,25 +33,29 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - twitter
-  - message
-  - sms
-  - im
-  - instant message
-  - μήνυμα
-  - άμεσο μήνυμα
-  - 140 χαρακτήρες
-  - chars
-  - characters
+  - οδήγηση
+  - τιμόνι
+  - αυτοκίνητο
+  - αυτοκίνηση
+  - car
+  - drive
+  - wheel
+  - ces
+  - bmw
+  - bugatti chiron
+  - bugatti
+  - chiron
+  - geneva
+  - γενεύη
 description: >-
-  Η διαδικτυακή ζωή εκατομμυρίων χρηστών του Twitter αναμένεται να αλλάξει για
-  πάντα με τη νέα αλλαγή που αναμένεται εντός του έτους στη γνωστή πλατφόρμα
-  κοινωνικής δικτύωσης.
+  Ενώ μετράμε ήδη τις εβδομάδες για την Έκθεση Αυτοκινήτου της Γενεύης όπου και
+  θα παρουσιαστεί σε όλο της το μεγαλείο η Bugatti Chiron, έρχονται κάποιες
+  λεπτομέρειες σχετικά με το ιταλικό supercar για να... ζαλίσουν!
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/660-twitter-change'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/656-bugatti-chiron'
 title: coffeespots.gr
 datePublished: '2018-11-16T12:56:26.064Z'
-dateModified: '2018-11-16T12:50:33.907Z'
+dateModified: '2018-11-16T12:49:28.738Z'
 datePublishedOriginal: '2018-11-16T12:56:26.064Z'
 via: {}
 inFeed: true
@@ -61,4 +65,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Η διαδικτ&amp;upsi;ακή ζωή &amp;epsi;κατομμ&amp;upsi;ρίων χρηστών το&amp;upsi; Twitter αναμέν&amp;epsi;ται να αλλάξ&amp;epsi;ι για πάντα μ&amp;epsi; τη νέα αλλαγή πο&amp;upsi; αναμέν&amp;epsi;ται &amp;epsi;ντός το&amp;upsi; έτο&amp;upsi;ς στη γνωστή πλατφόρμα κοινωνικής δικτύωσης.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/6d7087f4961cab56979df573bedb8ec5_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Ενώ μ&amp;epsi;τράμ&amp;epsi; ήδη τις &amp;epsi;βδομάδ&amp;epsi;ς για την Έκθ&amp;epsi;ση Α&amp;upsi;τοκινήτο&amp;upsi; της Γ&amp;epsi;ν&amp;epsi;ύης όπο&amp;upsi; και θα παρο&amp;upsi;σιαστ&amp;epsi;ί σ&amp;epsi; όλο της το μ&amp;epsi;γαλ&amp;epsi;ίο η Bugatti Chiron, έρχονται κάποι&amp;epsi;ς λ&amp;epsi;πτομέρ&amp;epsi;ι&amp;epsi;ς σχ&amp;epsi;τικά μ&amp;epsi; το ιταλικό supercar για να... ζαλίσο&amp;upsi;ν!</p><img src="https://www.coffeespots.gr/media/k2/items/cache/7b17ec9e1ac0efe68976696eb1e50b37_XL.jpg" /></article>
