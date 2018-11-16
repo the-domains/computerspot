@@ -33,27 +33,29 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - ημέρα αποθήκευσης αρχείων
-  - world backup day
-  - mat honan
-  - παγκόσμια ημέρα
+  - pokemon
+  - pokemon go
+  - θεσσαλονίκη
+  - review
+  - nintento
+  - niantic
 description: >-
-  Την τελευταία εβδομάδα του Μαρτίου του 2010 κάποιοι χρήστες του ιστότοπου
-  κοινωνικής δικτύωσης reddit είχαν την ιδέα να αφιερώσουν μία ημέρα στην
-  αρχειοθέτηση των δεδομένων των ηλεκτρονικών υπολογιστών (backup).
+  Το Pokemon Go έχει μπει για τα καλά στις ζωές μας και καλά θα κάνουμε να το
+  δεχτούμε. Μπορεί να είναι παροδική τρέλα αλλά μπορεί να ήρθε για να
+  αναθεωρήσει τον κόσμο των Computer Games και το τρόπο με τον οποίο τα
+  βιώνουμε.
 app_links: []
-isBasedOnUrl: >-
-  https://www.coffeespots.gr/hot-news/item/797-%CF%80%CE%B1%CE%B3%CE%BA%CF%8C%CF%83%CE%BC%CE%B9%CE%B1-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1-%CE%B1%CF%80%CE%BF%CE%B8%CE%AE%CE%BA%CE%B5%CF%85%CF%83%CE%B7%CF%82-%CE%B1%CF%81%CF%87%CE%B5%CE%AF%CF%89%CE%BD
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/746-pokemon-go'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.223Z'
+datePublished: '2018-11-16T12:57:27.221Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.052Z'
+datePublishedOriginal: '2018-11-16T12:56:26.032Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Την τ&amp;epsi;λ&amp;epsi;&amp;upsi;ταία &amp;epsi;βδομάδα το&amp;upsi; Μαρτίο&amp;upsi; το&amp;upsi; 2010 κάποιοι χρήστ&amp;epsi;ς το&amp;upsi; ιστότοπο&amp;upsi; κοινωνικής δικτύωσης reddit &amp;epsi;ίχαν την ιδέα να αφι&amp;epsi;ρώσο&amp;upsi;ν μία ημέρα στην αρχ&amp;epsi;ιοθέτηση των δ&amp;epsi;δομένων των ηλ&amp;epsi;κτρονικών &amp;upsi;πολογιστών (backup).</p><img src="https://www.coffeespots.gr/media/k2/items/cache/5b74e738223d177a4030153c35f64896_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Το Pokemon Go έχ&amp;epsi;ι μπ&amp;epsi;ι για τα καλά στις ζωές μας και καλά θα κάνο&amp;upsi;μ&amp;epsi; να το δ&amp;epsi;χτούμ&amp;epsi;. Μπορ&amp;epsi;ί να &amp;epsi;ίναι παροδική τρέλα αλλά μπορ&amp;epsi;ί να ήρθ&amp;epsi; για να αναθ&amp;epsi;ωρήσ&amp;epsi;ι τον κόσμο των Computer Games και το τρόπο μ&amp;epsi; τον οποίο τα βιώνο&amp;upsi;μ&amp;epsi;.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/a05812a6ea54f32db80b865f7cd66f25_XL.jpg" /></article>
