@@ -1,17 +1,72 @@
-layout_spectrum: 0.7648786033969373
-typography_spectrum: 0.758561402792111
-color:
-  saturation: 0.4104666346684098
-  brandStrength: 0.050476375967264175
-  lightness: 0.2923144774977118
-  brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-  rhythmicContrast: 0.6999231323134154
 title: ComputerSpot
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F8Q3QFCgtzOY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8Q3QFCgtzOY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8Q3QFCgtzOY%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen="true"></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: neat gadget
+          url: 'https://www.youtube.com/channel/UCktxDA1RdMVu1Wp7_quRBJg'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: www.youtube.com
+      keywords:
+        - ''
+      description: a video you can add to the background of a website
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=8Q3QFCgtzOY&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=8Q3QFCgtzOY&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=8Q3QFCgtzOY&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=8Q3QFCgtzOY&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=8Q3QFCgtzOY&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=8Q3QFCgtzOY'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=8Q3QFCgtzOY
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=8Q3QFCgtzOY
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=8Q3QFCgtzOY'
+      title: computer background video
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 collections:
   - index:
       path: /
@@ -25,16 +80,37 @@ collections:
     permalink:
       path: '/:title/'
 description: Where everything Computer happens
+color:
+  saturation: 0.8723404
+  brandStrength: 0.05047637596726418
+  rhythmicContrast: 0.493617
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  lightness: 0.2923145
 navigation:
   - name: Main Page
     url: 'http://www.computerspot.gr'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/799751ee-22cd-4b1f-ba71-f3a5e8bfd4a3.ico
+name: ComputerSpot
 author:
   name: Αλέξανδρος Ανδρούτσος
-  email: alex.androutsos@gmail.com
+  email: androutsos+grid@computerspot.gr
   url: www.ComputerSpot.gr
-name: ComputerSpot
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/799751ee-22cd-4b1f-ba71-f3a5e8bfd4a3.ico
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cb0f9c2-11f6-4cd0-b501-d10ba023a263.png
+typography_spectrum: 0.2158516
+layout_spectrum: 1
+purpose:
+  - type: contact
+    url: 'tel:6973206899'
+    label: Καλέστε 6973206899
+  - type: contact
+    url: 'mailto:services+thegrid@computerspot.gr'
+    label: Επικοινωνήστε με email
+github: true
