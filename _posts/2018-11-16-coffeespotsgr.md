@@ -33,31 +33,37 @@ keywords:
   - cup
   - capuccino
   - espresso
-  - ταχύτητα
-  - ασφάλεια
-  - cloudflare
-  - cdn
-  - spam
-  - σπαμ
-  - firewall
+  - torrent
+  - magnet
+  - link
+  - τόρεντ
+  - popcorn time
+  - ποπ κορν
+  - pop corn
+  - time
+  - ταινίες
+  - streaming
+  - κατέβασμα
+  - streaming video
+  - movie
+  - movies
+  - video
+  - videos
 description: >-
-  Όλοι ξέρουμε πως το antivirus και το firewall καταναλώνουν πολύτιμους πόρους
-  από το σύστημά μας, ενώ το 90% του χρόνου δεν χρησιμεύουν σε τίποτα. Όπως όμως
-  και με τους πυροσβέστες, που δεν μπορούν να πληρώνονται μόνο όταν σβήνουν
-  φωτιές, αυτό είναι το τίμημα για την ασφάλεια σε ένα κόσμο γεμάτο ιούς και
-  hacker.
+  Ταινίες από το Internet, Δωρεάν και με Ασφάλεια. popcorntime.io: Η εποχή του
+  Streaming Torrent είναι εδώ
 app_links: []
-isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/555-cloudflare'
+isBasedOnUrl: 'https://www.coffeespots.gr/hot-news/item/554-popcorn-time'
 title: coffeespots.gr
-datePublished: '2018-11-16T12:57:27.224Z'
+datePublished: '2018-11-16T12:57:27.258Z'
 dateModified: '2018-11-16T12:57:25.406Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-11-16-coffeespotsgr.md
 starred: false
-datePublishedOriginal: '2018-11-16T12:56:26.083Z'
+datePublishedOriginal: '2018-11-16T12:56:26.078Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>coffeespots.gr</h1><p>Όλοι ξέρο&amp;upsi;μ&amp;epsi; πως το antivirus και το firewall καταναλώνο&amp;upsi;ν πολύτιμο&amp;upsi;ς πόρο&amp;upsi;ς από το σύστημά μας, &amp;epsi;νώ το 90% το&amp;upsi; χρόνο&amp;upsi; δ&amp;epsi;ν χρησιμ&amp;epsi;ύο&amp;upsi;ν σ&amp;epsi; τίποτα. Όπως όμως και μ&amp;epsi; το&amp;upsi;ς π&amp;upsi;ροσβέστ&amp;epsi;ς, πο&amp;upsi; δ&amp;epsi;ν μπορούν να πληρώνονται μόνο όταν σβήνο&amp;upsi;ν φωτιές, α&amp;upsi;τό &amp;epsi;ίναι το τίμημα για την ασφάλ&amp;epsi;ια σ&amp;epsi; ένα κόσμο γ&amp;epsi;μάτο ιούς και hacker.</p><img src="https://www.coffeespots.gr/media/k2/items/cache/7dff099a65b026895942a872c251a542_XL.jpg" /></article>
+<article style=""><h1>coffeespots.gr</h1><p>Ταινί&amp;epsi;ς από το Internet, Δωρ&amp;epsi;άν και μ&amp;epsi; Ασφάλ&amp;epsi;ια. popcorntime.io: Η &amp;epsi;ποχή το&amp;upsi; Streaming Torrent &amp;epsi;ίναι &amp;epsi;δώ</p><img src="https://www.coffeespots.gr/media/k2/items/cache/16e33b8fd7ad7ca58b03c6bbca1f0b81_XL.jpg" /></article>
